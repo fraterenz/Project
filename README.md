@@ -26,7 +26,10 @@ The information covered by the media is often related to an underlying **economi
 # A list of internal milestones up until project milestone 2
 ---
 
-**Sketch of our planning for the next project milestone 2.**
+
+**Clean the data, how?**
+* Create a metric that defines the most relevant pages (article length, article logs, article referred links (clickstreams), ...), according to a certain date, looking at the page date of creation (e.g. World War II is a known conflict but is outdated so discarded).
+* Create a list of less relevant pages (these will be the least discussed and least known pages nowadays).
 
 
 
