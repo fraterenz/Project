@@ -27,7 +27,7 @@ The information covered by the media is often related to an underlying **economi
 
 
 
-**Clean the data, how?**
+* Clean the data, how?
 * Create a metric that defines the most relevant pages (article length, article logs, article referred links (clickstreams), ...), according to a certain date, looking at the page date of creation (e.g. World War II is a known conflict but is outdated so discarded).
 * Create a list of less relevant pages (these will be the least discussed and least known pages nowadays).
 
