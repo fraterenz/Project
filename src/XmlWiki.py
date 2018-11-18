@@ -9,7 +9,7 @@ sc = spark.sparkContext
 sqlContext = SQLContext(sc)
 
 
-class XmlWikidump():
+class XmlWiki():
     def __init__(self, path, path_schema, use_schema=False, sampling_ratio=.4, rowTag='page'):
         self.path = path
         self.sampling_ratio = sampling_ratio
