@@ -3,4 +3,5 @@ temp/
 .idea/
 .ipynb_checkpoints
 bubu/
+__pycache__
 
