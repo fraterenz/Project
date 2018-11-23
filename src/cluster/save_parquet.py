@@ -8,7 +8,7 @@ sc = spark.sparkContext
 
 sqlContext = SQLContext(sc)
 
-DATA_DIR = "enwiki-20180920"
+DATA_DIR = "/datasets/enwiki-20180920"
 PARQUET_DIR = "/home/terenzi/parquet_dump"
 
 """parser = argparse\
@@ -32,10 +32,10 @@ else:
 
 """
 n_ratio = 0.01
-wikipedia = spark.createDataFrame(sqlContext.read.format('com.databricks.spark.xml').options(rowTag='page')
-                                  .options(samplingRatio=n_ratio)
-                                  .load(os.path.join(DATA_DIR, "enwiki-20180920-pages-articles-multistream.xml")))
+print('start loading data')
+wikipedia = sqlContext.read.format('com.databricks.spark.xml').options(rowTag='page').options(samplingRatio=n_ratio).load(os.path.join(DATA_DIR, "enwiki-20180920-pages-articles-multistream.xml")))
 
+print('saving into parquet')
 # saving binary file to future uses
-# wikipedia.write.parquet(os.path.join(PARQUET_DIR, "wikipedia_{}.parquet".format(n_ratio)))
+wikipedia.write.parquet(os.path.join(PARQUET_DIR, "wikipedia_{}.parquet".format(n_ratio)))
 
