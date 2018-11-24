@@ -18,7 +18,7 @@ def main():
         metavar='path',
         type=str,
         required=False,
-        default="/user/terenzi/wikipedia_1.parquet",
+        default="/user/terenzi/wikipedia_1.0.parquet",
         help='''path to parquet files'''
     )
 
