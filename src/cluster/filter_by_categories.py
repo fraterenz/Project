@@ -1,6 +1,5 @@
 import argparse
 import re
-import os
 from pyspark.sql import SparkSession
 from pyspark.sql.functions import udf
 from pyspark.sql.types import StringType, BooleanType
@@ -17,8 +16,7 @@ def main():
         '-in',
         metavar='path',
         type=str,
-        required=False,
-        default="/user/terenzi/wikipedia_1.0.parquet",
+        required=True,
         help='''path to parquet files'''
     )
 
@@ -58,7 +56,7 @@ def main():
     conflict_articles = filter_data(wikipedia, good_categories)
 
     # saving binary file to future uses
-    conflict_articles.write.parquet(os.path.join(args['out'], 'filtered_conflicts.parquet'))
+    conflict_articles.write.parquet(args['out'])
 
 
 def filter_data(data, categories_to_match):
@@ -85,7 +83,7 @@ def filter_data(data, categories_to_match):
 
     # extract articles that have some defined categories in the infobox
     # regex that matches infobox
-    regex = r"(?<={{infobox ).[a-zA-Z0-9.-_/ ]*" # o con \\n nel caso andasse a capo XD
+    regex = r"(?<={{infobox ).[a-zA-Z0-9.-_/ ]*"  # o con \\n nel caso andasse a capo XD
     ibox_regex = re.compile(regex, re.IGNORECASE)
 
     # user defined func to extract the category from the infobox
@@ -95,13 +93,14 @@ def filter_data(data, categories_to_match):
     articles = articles.withColumn("categories", category_udf(articles.revision.text._VALUE))
 
     # regex that matches the categories
-    regex = r"(" + '|'.join(categories_to_match) + ")(,|$)"  # military operation?
-    category_selection_re = re.compile(regex, re.IGNORECASE)
+    regex_categories = r"(" + '|'.join(categories_to_match) + ")(,|$)"  # military operation?
+    category_selection_re = re.compile(regex_categories, re.IGNORECASE)
 
     # user defined func to match the right categories
-    good_category_udf = udf(lambda text: good_category(text, category_selection_re), BooleanType())
+    good_category_udf = udf(lambda text: good_category(text, category_selection_re), BooleanType())  # TODO remove
+    # good_category_udf = udf(lambda text: category_selection_re.findall(text), BooleanType())  # TODO seems ok
     conflict_articles = articles.withColumn("good_categories", good_category_udf(articles.categories)) \
-        .filter('good_categories == true')
+        .filter('good_categories = True')
 
     return conflict_articles
 
@@ -112,7 +111,11 @@ def extract_category(text, re_expression):
 
 
 def good_category(text, re_expression):
-    return re_expression.findall(text)
+    res = re_expression.findall(text)
+    if not res:
+        return False
+    return True
+    #return re_expression.findall(text)  # TODO remove the function
 
 
 if __name__ == "__main__":
