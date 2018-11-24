@@ -1,5 +1,6 @@
 import argparse
 import re
+import os
 from pyspark.sql import SparkSession
 from pyspark.sql.functions import udf
 from pyspark.sql.types import StringType, BooleanType
@@ -17,7 +18,7 @@ def main():
         metavar='path',
         type=str,
         required=False,
-        default="/user/terenzi/wikipedia_1e-05.parquet",
+        default="/user/terenzi/wikipedia_1.parquet",
         help='''path to parquet files'''
     )
 
@@ -57,7 +58,7 @@ def main():
     conflict_articles = filter_data(wikipedia, good_categories)
 
     # saving binary file to future uses
-    conflict_articles.write.mode('overwrite').parquet(args['out'])
+    conflict_articles.write.parquet(os.path.join(args['out'], 'filtered_conflicts.parquet'))
 
 
 def filter_data(data, categories_to_match):
@@ -75,7 +76,7 @@ def filter_data(data, categories_to_match):
             .filter("revision.text._VALUE is not null")\
             .filter("length(revision.text._VALUE) > 0")  # TODO this does not work locally but on cluster?
     except AnalysisException:
-        print('not removing redirections because field redirect._title  not present in dataframe')
+        print('Not removing redirections because field redirect._title  not present in dataframe')
         articles = data.filter("ns = '0'").filter("revision.text._VALUE is not null")\
             .filter("length(revision.text._VALUE) > 0")
 
