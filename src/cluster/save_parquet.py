@@ -1,40 +1,52 @@
 import argparse
-import os.path
 from pyspark.sql import SparkSession
 from pyspark.sql import SQLContext
 
-spark = SparkSession.builder.getOrCreate()
-sc = spark.sparkContext
 
-sqlContext = SQLContext(sc)
+def main():
+    spark = SparkSession.builder.getOrCreate()
+    sc = spark.sparkContext
 
-DATA_DIR = "/datasets/enwiki-20180920"
-PARQUET_DIR = "/user/terenzi"
+    sqlContext = SQLContext(sc)
+    parser = argparse \
+        .ArgumentParser(description='''Save into columnar format (parquet) the input file''')
 
-parser = argparse\
-    .ArgumentParser(description='''Save huge file into parquet specifying the nb of records to sample from file''')
+    parser.add_argument(
+        '-in',
+        metavar='path',
+        type=str,
+        required=True,
+        help='''path to parquet files'''
+    )
 
-parser.add_argument(
-    '-ratio',
-    metavar='ratio',
-    type=float,
-    required=True,
-    help='''Number of records to subsample from the file'''
-)
+    parser.add_argument(
+        '-ratio',
+        metavar='ratio',
+        type=str,
+        required=True,
+        help='''ratio of the file to load and to export into columnar format'''
+    )
 
-args = vars(parser.parse_args())
-if args['ratio'] > 1. or args['ratio'] < 0.:
-    raise ValueError('must be between 0 and 1, not {}'.format(args['ratio'] ))
-#if args['ratio'] > .5:
-#    raise Warning('Will be a lot of data!')
-else:
+    parser.add_argument(
+        '-out',
+        metavar='output_path',
+        type=str,
+        required=True,
+        help='''output path of parquets filtered'''
+    )
+
+    args = vars(parser.parse_args())
     n_ratio = args['ratio']
+    # '/Users/francescoterenzi/ADA/Project/temp/pietro/first.xml'
+
+    print('start loading data')
+    some_data = sqlContext.read.format('com.databricks.spark.xml').options(rowTag='page') \
+        .options(samplingRatio=n_ratio).load(args['in'])
+
+    print('saving into parquet')
+    # saving binary file to future uses
+    some_data.write.parquet(args['out'])
 
 
-# n_ratio = 0.01
-print('start loading data')
-wikipedia = sqlContext.read.format('com.databricks.spark.xml').options(rowTag='page').options(samplingRatio=n_ratio).load(os.path.join(DATA_DIR, "enwiki-20180920-pages-articles-multistream.xml"))
-print('saving into parquet')
-# saving binary file to future uses
-wikipedia.write.parquet(os.path.join(PARQUET_DIR, "wikipedia_{}.parquet".format(n_ratio)))
-
+if __name__ == "__main__":
+    main()
