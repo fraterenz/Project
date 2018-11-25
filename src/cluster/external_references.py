@@ -1,10 +1,9 @@
 import argparse
 import re
-from operator import add
 from pyspark.sql import SparkSession
 import pyspark.sql.functions as F
 from pyspark.sql.functions import countDistinct
-from pyspark.sql.types import StringType, Row
+from pyspark.sql.types import Row
 from pyspark.sql import SQLContext
 
 
@@ -51,18 +50,14 @@ def main():
         .options(rowTag='page')\
         .load(args['in_raw'])
 
-    """ FRA
-    # TODO try map and reduce
-    external_links = []
-    for i in articles.select("revision.text._VALUE").collect():
-        external_links += link_regex.findall(i[0])
-
+    #FRA
     # find all occurences and reduce to have a final dataframe with all the external references
-    external_links = sqlContext.createDataFrame(articles.rdd.map(find_ext_links).reduce(add), StringType)
-    
+    external_links = sqlContext.createDataFrame(articles.rdd.map(find_ext_links))
+
     group_links = external_links.groupBy("title").agg(countDistinct("title"))\
         .select("title", F.col("count(DISTINCT title)").alias("external_links"))
     """
+    
     # PIETRO
     regex = r"\[\[(.*?)\]\]"
     link_regex = re.compile(regex, re.IGNORECASE)
@@ -78,19 +73,19 @@ def main():
 
     external_links = spark.createDataFrame(external_links, StringType()).selectExpr("value as title")
 
-    group_links = external_links.groupBy("title").agg(countDistinct("title")).select("title", F.col(
-        "count(DISTINCT title)").alias("external_links"))
-
+    group_links = external_links.groupBy("title").agg(countDistinct("title"))\
+        .select("title", F.col("count(DISTINCT title)").alias("external_links"))
+    """
     all_info = conflict_articles.join(group_links, "title", how='left').na.fill(0)
     all_info = all_info.select("id", "title", "external_links")
     all_info.write.parquet(args['out'])
 
 
-def find_ext_links(dataframe, regex=r"\[\[(.*?)\]\]"):
+def find_ext_links(entity, regex=r"\[\[(.*?)\]\]"):
     regex_compiled = re.compile(regex, re.IGNORECASE)
-    text = dataframe.revision.text._VALUE
+    text = entity.revision.text._VALUE
     refs = regex_compiled.findall(text)
-    return Row(id=dataframe.id, title=dataframe.title, link=refs)
+    return Row(id=entity.id, title=entity.title, link_count=len(refs), link=refs)
 
 
 if __name__ == "__main__":
