@@ -3,7 +3,7 @@
 # Abstract
 
 
-To investigate our hypothesis, we contrast **popular** articles vs **non-popular** articles on Wikipedia. As a pilot-phase, we focus solely on articles that all have as common subject: `civilian attack`, `civil conflict`, `military conflict`. In other words, we look at such subject-related articles and quantify their popularity and importance using a score with different **metrics** detailed below. Our objective is to showcase articles which are well known *(‘Syria war, ...’)* in comparison to articles which are less heard-of, less *popular* so that journalists,  aspiring writers or people can be informed by other facts. It can also help a journalist if he is having a writer’s block or has run out of stories to write about. To determine the *popularity* of an article based on 4 metrics: 
+To investigate our hypothesis, we contrast **popular** articles vs **non-popular** articles on Wikipedia. As a pilot-phase, we focus solely on articles that all have as common subject: `civilian attack`, `civil conflict`, `military conflict`. In other words, we look at such subject-related articles and quantify their popularity and importance using a score with different **metrics** detailed below. Our objective is to showcase articles which are well known *(‘Syria war, ...’)* in comparison to articles which are less heard-of, less *popular* so that journalists,  aspiring writers or people can be informed by other facts. It can also help a journalist if he is having a writer’s block or has run out of stories to write about. To determine the *popularity* of an article, we define a metric of popularity based on 4 metrics: 
 
 * page views
 * page references
@@ -18,16 +18,14 @@ Also, it should be noted that certain conflicts *(Rohingya, ...)*  which were un
 
 # Research questions
 
-* Does current knowledge or media coverage correlate with the most popular Wikipedia pages, reflecting the economical bias? 
-* How to define a metric of popularity within different article pages?
+* Does current knowledge or media coverage correlate with the most popular Wikipedia pages? 
 * How to provide an unbiased source of information? Would the extrapolation and the presentation of less known wikipedia articles provide an unbiased source of information?
-* What are the respective contributions to such popular pages from parts of the world? 
+* What are the respective contributions to such popular pages from parts of the world? (to be discussed)
 
 
 # Dataset
 
 * **Wikipedia pages content**: data size and format: 64.2 G in one single .xml file
-* **Wikipedia pages edit history**: pages-meta-history xml files 
 * **Wikipedia clickstreams**: https://dumps.wikimedia.org/other/clickstream/readme.html
 * **Wikipedia mediacounts**: https://wikitech.wikimedia.org/wiki/Analytics/Data_Lake/Traffic/Mediacounts
 
@@ -81,16 +79,42 @@ We want to see how *important* each page is in each category. As we are solely f
             * 'location (P276)'
 
 
-* **Join tables on the page id or page title**
+* **Join popularity metric tables on the page id**
     * Get table where 1 row = 1 page
         * *1 page contains*
            * id
            * title
            * ref count 
-           * references
-           * views or numero di visite da API
+           * views
            * number of external links
-           * related info box stuff/wikidata (location, date, deaths)
+* **Join final popularity metric table with each category table on the page id**
+    * Get `military conflict` table where 1 row = 1 page
+        * *1 page contains*
+            * id
+            * title
+            * ref count 
+            * views
+            * number of external links
+            * related info box stuff/wikidata (location, date, deaths)
+     * Get `civil conflict` table where 1 row = 1 page
+        * *1 page contains*
+            * id
+            * title
+            * ref count 
+            * views
+            * number of external links
+            * related info box stuff/wikidata (location, date, deaths)
+            
+     * Get `civilian attack` table where 1 row = 1 page
+         * *1 page contains*
+            * id
+            * title
+            * ref count 
+            * views
+            * number of external links
+            * related info box stuff/wikidata (location, date, deaths)
+
+* **Define a popularity score for each page**
 
 # Data distribution
 * **Distribution of articles for each keyword**: {war riot conflict protest revolt operation attack annexation genocide insurgency crisis confrontation clash}
