@@ -28,7 +28,7 @@ The information covered by the media is often related to an underlying **economi
     * civil conflict
     * military conflict
 
-* **outlier removal** 
+* **outlier removal and disambiguations removal** 
     * use keywords (**"war, riot, conflict, protest, revolt, operation, attack, annexation, genocide, insurgency, crisis, confrontation, clash"**) on the article titles to extract from our chosen categories (`civilian attack`, `civil conflict`, `military conflict`)
 
 * **quantify popularity of each page in each category using 4 metrics** 
@@ -84,7 +84,10 @@ We want to see how *important* each page is in each category. As we are solely f
 
 * Clean the data, how?
 * Create a metric that defines the most relevant pages (article length, article logs, article referred links (clickstreams), ...), according to a certain date, looking at the page date of creation (e.g. World War II is a known conflict but is outdated so discarded).
-* Create a list of less relevant pages (these will be the least discussed and least known pages nowadays).
+
+# For milestone 3
+* Infer a list of less relevant pages (these will be the least discussed and least known pages nowadays), and 
+contrast with "Popular" articles.
 
 
 
