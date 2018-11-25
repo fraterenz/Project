@@ -25,7 +25,7 @@ def main():
         metavar='categories',
         type=list,
         required=False,
-        default=['civil conflicts', 'military conflicts', 'civilian attack'],
+        default=['civil conflict', 'military conflict', 'civilian attack'],
         help='''List of categories, string'''
     )
 
