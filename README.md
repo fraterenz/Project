@@ -119,9 +119,9 @@ We want to see how *important* each page is in each category. As we are solely f
 
     We define the popularity score of an article as:
 
-        > SCORE = w1 * views + w2 * links + w3 * references + w4 * length 
+         SCORE = w1 * views + w2 * links + w3 * references + w4 * length 
         
-        where w1, w2, w3 and w4 are arbitrary weigths that normalize the features.
+        w1, w2, w3 and w4 are arbitrary weigths that normalize the features.
 
     We have noticed that the features references,length and views seem to follow a power law. Therefore, we use the median to construct the weights associated to them.
 
