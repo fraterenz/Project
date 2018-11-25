@@ -43,9 +43,13 @@ def main():
     sqlContext = SQLContext(sc)
 
     # load filtered articles
-    conflict_articles = args['in_filtered']
+    conflict_articles = sqlContext.read.format('com.databricks.spark.xml')\
+        .options(rowTag='page')\
+        .load(args['in_filtered'])
     # load raw data
-    articles = args['in_raw']
+    articles = sqlContext.read.format('com.databricks.spark.xml')\
+        .options(rowTag='page')\
+        .load(args['in_raw'])
 
     """
     # TODO try map and reduce
