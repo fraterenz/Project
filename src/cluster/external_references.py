@@ -51,17 +51,35 @@ def main():
         .options(rowTag='page')\
         .load(args['in_raw'])
 
-    """
+    """ FRA
     # TODO try map and reduce
     external_links = []
     for i in articles.select("revision.text._VALUE").collect():
-        external_links += link_regex.findall(i[0])"""
+        external_links += link_regex.findall(i[0])
 
     # find all occurences and reduce to have a final dataframe with all the external references
     external_links = sqlContext.createDataFrame(articles.rdd.map(find_ext_links).reduce(add), StringType)
-
+    
     group_links = external_links.groupBy("title").agg(countDistinct("title"))\
         .select("title", F.col("count(DISTINCT title)").alias("external_links"))
+    """
+    # PIETRO
+    regex = r"\[\[(.*?)\]\]"
+    link_regex = re.compile(regex, re.IGNORECASE)
+
+    external_links = []
+
+    def extr_link(text):
+        global external_links
+        external_links = external_links + link_regex.findall(text)
+
+    for i in articles.select("revision.text._VALUE").collect():
+        extr_link(i[0])
+
+    external_links = spark.createDataFrame(external_links, StringType()).selectExpr("value as title")
+
+    group_links = external_links.groupBy("title").agg(countDistinct("title")).select("title", F.col(
+        "count(DISTINCT title)").alias("external_links"))
 
     all_info = conflict_articles.join(group_links, "title", how='left').na.fill(0)
     all_info = all_info.select("id", "title", "external_links")
