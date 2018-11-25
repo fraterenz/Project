@@ -82,10 +82,20 @@ We want to see how *important* each page is in each category. As we are solely f
            * number of external links
            * related info box stuff/wikidata (location, date, deaths)
 
-# A list of internal milestones up until project milestone 3
-
-* Clean the data, how?
-* Create a metric that defines the most relevant pages (article length, article logs, article referred links (clickstreams), ...), according to a certain date, looking at the page date of creation (e.g. World War II is a known conflict but is outdated so discarded).
+# Data distribution
+* **Distribution of articles for each keyword**: {war riot conflict protest revolt operation attack annexation genocide insurgency crisis confrontation clash}
+* **Distribution of number of references**: follows a power law. The distribution has a heavy-tailed distribution
+    * Histogram
+    * Log-log plot
+    * Boxplot with and without outliers
+* **Percentage of references for domains**: top 3 references are : {books.google.com, www.nytimes.com, www.theguardian.com}
+* **Distribution of number of views**: follows a power law. The distribution has a heavy-tailed distribution
+    * Histogram
+    * Log-log plot
+    * Boxplot with and without outliers
+* **Distribution of article lengths** : follows a power law. The distribution has a heavy-tailed distribution.
+    * Histogram
+    * Log-log plot
 
 # For milestone 3
 * Infer a list of less relevant pages (these will be the least discussed and least known pages nowadays), and 
@@ -101,4 +111,5 @@ contrast with "Popular" articles.
 
 # External libraries
 * [wptools wiki](https://github.com/siznax/wptools/wiki) to help us parse the data
+* [mwviews](https://github.com/mediawiki-utilities/python-mwviews)
 
