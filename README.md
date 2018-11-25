@@ -3,7 +3,17 @@
 # Abstract
 
 
-The information covered by the media is often related to an underlying **economical factor**. Let's consider conflicts: the more the money is invested on actions related to them, the more media will inform people. We think that Wikipedia indirectly correlates with this *information bias* since people creating wiki pages may write about such subjects according to the media trend. What if Wikipedia were imbalanced in its coverage of knowledge? What if Wikipedia showcased an unbalanced representation of the world presented by the media? Since Wikipedia aims to capture data driven by non-profit seeking people, we could provide an unbiased source information (data not yet fully covered by the media). Our goal is to provide an *unbiased* source of information by creating a new way to inform people based on Wikipedia, as it represents non-profit method to collect the information. 
+To investigate our hypothesis, we contrast **popular** articles vs **non-popular** articles on Wikipedia. As a pilot-phase, we focus solely on articles that all have as common subject: `civilian attack`, `civil conflict`, `military conflict`. In other words, we look at such subject-related articles and quantify their popularity and importance using a score with different **metrics** detailed below. Our objective is to showcase articles which are well known *(‘Syria war, ...’)* in comparison to articles which are less heard-of, less *popular* so that journalists,  aspiring writers or people can be informed by other facts. It can also help a journalist if he is having a writer’s block or has run out of stories to write about. To determine the *popularity* of an article based on 4 metrics: 
+
+* page views
+* page references
+* article length
+* external links
+
+Also, it should be noted that certain conflicts *(Rohingya, ...)*  which were unknown a couple of years ago, have become of increasing interest. Future steps include: 
+* finding a way to show this increasing in interest over the years if possible
+* Highlight media included in the references of popular vs unpopular articles: *Which top domains are mentioned?  What kind of media are present?*
+
 
 
 # Research questions
