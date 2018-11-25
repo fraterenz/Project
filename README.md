@@ -10,7 +10,7 @@ To investigate our hypothesis, we contrast **popular** articles vs **non-popular
 * article length
 * external links
 
-Also, it should be noted that certain conflicts *(Rohingya, ...)*  which were unknown a couple of years ago, have become of increasing interest. Future steps include: 
+Also, it should be noted that certain conflicts *(Rohingya, ...)*  which were unknown a couple of years ago, have become of increasing interest. Possible future directions include: 
 * finding a way to show this increasing in interest over the years if possible
 * Highlight media included in the references of popular vs unpopular articles: *Which top domains are mentioned?  What kind of media are present?*
 
@@ -152,9 +152,9 @@ contrast with "Popular" articles.
 
 * Understand how to use a propensity score if it is needed
 
-* Create a function that describe the data:
-    * boxplot, 
-    * log-log,
+* Create a function that describe the data, instead of computing it again and again:
+    * boxplot
+    * log-log
     * plot distribution
 
 # Questions for TAs
