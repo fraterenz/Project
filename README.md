@@ -123,7 +123,7 @@ We want to see how *important* each page is in each category. As we are solely f
         
         w1, w2, w3 and w4 are arbitrary weigths that normalize the features.
 
-    We have noticed that the features references,length and views seem to follow a power law. Therefore, we use the median to construct the weights associated to them.
+    We have noticed that the features references,length and views seem to follow a power law. Therefore, we use the 1/median to construct the weights associated to them.
 
 # Data distribution
 * **Distribution of articles for each keyword**: {war riot conflict protest revolt operation attack annexation genocide insurgency crisis confrontation clash}
@@ -156,6 +156,8 @@ contrast with "Popular" articles.
     * boxplot
     * log-log
     * plot distribution
+    
+* Discuss the weights if it is just correct to divide by the median?
 
 # Questions for TAs
 
@@ -164,6 +166,8 @@ contrast with "Popular" articles.
     * Another hypothesis could be that the views are not from unique people, meaning that a person can visit multiple times a given page, so the statistics could be a bit biased, no? Maybe by normalizing we can minimize the bias?
 
 * Should we use a type of propensity score to correct for bias? If so, how could we procede?
+
+* For the popularity score, we calculated the weights of each popularity metric as 1/median of the popularity metric. Is this too relaxed?
 
 
 
