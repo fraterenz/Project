@@ -1,5 +1,8 @@
 # Biaspedia: Media-driven data
 
+# Notebook
+Select notebook **Project_Pipeline.ipynb** to view our pipeline and analysis.
+
 # Abstract
 
 
