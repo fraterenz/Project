@@ -29,8 +29,7 @@ Also, it should be noted that certain conflicts *(Rohingya, ...)*  which were un
 # Dataset
 
 * **Wikipedia pages content**: data size and format: 64.2 G in one single .xml file
-* **Wikipedia clickstreams**: https://dumps.wikimedia.org/other/clickstream/readme.html
-* **Wikipedia mediacounts**: https://wikitech.wikimedia.org/wiki/Analytics/Data_Lake/Traffic/Mediacounts
+* **API** to get views
 
 # Pipeline 
 
