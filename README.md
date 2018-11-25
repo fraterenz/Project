@@ -144,13 +144,28 @@ We want to see how *important* each page is in each category. As we are solely f
 * Infer a list of less relevant pages (these will be the least discussed and least known pages nowadays), and 
 contrast with "Popular" articles.
 
+* Compute popularity metric **external links**
 
+* Contrast references between *popular* and *nonpopular* articles, see if a bias is present
+
+* Evaluate importance criterion: number of deaths
+
+* Understand how to use a propensity score if it is needed
+
+* Create a function that describe the data:
+    * boxplot, 
+    * log-log,
+    * plot distribution
 
 # Questions for TAs
 
 * Number of views of a page: 
     * We are not sure if we should take into account the “relevance” of the article by normalizing the views of a page. For instance, if there is a civil conflict in Paris, where 2 civilians are found dead. The page would be more visualized than for instance a page talking about an attack in Stockholm, as the Parisian population is twice the size of Stockholm population. Should we normalize by the population size of the country in conflict? 
     * Another hypothesis could be that the views are not from unique people, meaning that a person can visit multiple times a given page, so the statistics could be a bit biased, no? Maybe by normalizing we can minimize the bias?
+
+* Should we use a type of propensity score to correct for bias? If so, how could we procede?
+
+
 
 # External libraries
 * [wptools wiki](https://github.com/siznax/wptools/wiki) to help us parse the data
