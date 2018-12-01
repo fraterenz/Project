@@ -4,6 +4,5 @@ temp/
 .ipynb_checkpoints
 bubu/
 __pycache__/
-data/
 million.xml
 10million.xml
