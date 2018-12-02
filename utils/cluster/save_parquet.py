@@ -4,10 +4,7 @@ from pyspark.sql import SQLContext
 
 
 def main():
-    spark = SparkSession.builder.getOrCreate()
-    sc = spark.sparkContext
 
-    sqlContext = SQLContext(sc)
     parser = argparse \
         .ArgumentParser(description='''Save into columnar format (parquet) the input file''')
 
@@ -39,11 +36,15 @@ def main():
     n_ratio = args['ratio']
     # '/Users/francescoterenzi/ADA/Project/temp/pietro/first.xml'
 
+    spark = SparkSession.builder.getOrCreate()
+    sc = spark.sparkContext
+    sqlContext = SQLContext(sc)
+
     print('start loading data')
     some_data = sqlContext.read.format('com.databricks.spark.xml').options(rowTag='page') \
         .options(samplingRatio=n_ratio).load(args['in'])
 
-    print('saving into parquet')
+    print('saving into parquet into {} folder'.format(args['out']))
     # saving binary file to future uses
     some_data.write.parquet(args['out'])
 

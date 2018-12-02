@@ -1,10 +1,9 @@
 import argparse
 import re
 from pyspark.sql import SparkSession
-import pyspark.sql.functions as F
-from pyspark.sql.functions import countDistinct
 from pyspark.sql.types import Row
 from pyspark.sql import SQLContext
+from pyspark.sql.utils import AnalysisException
 
 
 def main():
@@ -37,25 +36,32 @@ def main():
 
     args = vars(parser.parse_args())
 
+    # new
     spark = SparkSession.builder.getOrCreate()
     sc = spark.sparkContext
     sqlContext = SQLContext(sc)
 
-    # load filtered articles
-    conflict_articles = sqlContext.read.format('com.databricks.spark.xml')\
-        .options(rowTag='page')\
-        .load(args['in_filtered'])
-    # load raw data
-    articles = sqlContext.read.format('com.databricks.spark.xml')\
-        .options(rowTag='page')\
-        .load(args['in_raw'])
+    # load filtered articles (parquet)
+    conflict_articles = spark.read.parquet(args['in_filtered'])
+    # load raw data (parquet)
+    wikipedia = spark.read.parquet(args['in_raw'])
+
+    # filter to select articles with text that are not redirections
+    # take articles with text without any redirection
+    try: # this does not work locally but on cluster?
+        articles = wikipedia.filter("ns = '0'").filter("redirect._title is null") \
+            .filter("revision.text._VALUE is not null") \
+            .filter("length(revision.text._VALUE) > 0")
+    except AnalysisException:
+        print('Not removing redirections because field redirect._title  not present in dataframe')
+        articles = wikipedia.filter("ns = '0'").filter("revision.text._VALUE is not null") \
+            .filter("length(revision.text._VALUE) > 0")
 
     #FRA
-    # find all occurences and reduce to have a final dataframe with all the external references
     external_links = sqlContext.createDataFrame(articles.rdd.map(find_ext_links))
-
-    group_links = external_links.groupBy("title").agg(countDistinct("title"))\
-        .select("title", F.col("count(DISTINCT title)").alias("external_links"))
+    all_info = conflict_articles.join(external_links, "id", how='inner')
+    # all_info = all_info.select("id", "title", "external_links")
+    all_info.write.parquet(args['out'])
     """
     
     # PIETRO
@@ -76,9 +82,6 @@ def main():
     group_links = external_links.groupBy("title").agg(countDistinct("title"))\
         .select("title", F.col("count(DISTINCT title)").alias("external_links"))
     """
-    all_info = conflict_articles.join(group_links, "title", how='left').na.fill(0)
-    all_info = all_info.select("id", "title", "external_links")
-    all_info.write.parquet(args['out'])
 
 
 def find_ext_links(entity, regex=r"\[\[(.*?)\]\]"):
