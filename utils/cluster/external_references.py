@@ -36,7 +36,7 @@ def main():
 
     args = vars(parser.parse_args())
 
-    # new
+    # craete a spark session
     spark = SparkSession.builder.getOrCreate()
     sc = spark.sparkContext
     sqlContext = SQLContext(sc)
@@ -60,7 +60,7 @@ def main():
     #FRA
     external_links = sqlContext.createDataFrame(articles.rdd.map(find_ext_links))
     all_info = conflict_articles.join(external_links, "id", how='inner')
-    # all_info = all_info.select("id", "title", "external_links")
+    all_info = all_info.drop("title")
     all_info.write.parquet(args['out'])
     """
     
