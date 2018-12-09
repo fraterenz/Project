@@ -57,31 +57,10 @@ def main():
         articles = wikipedia.filter("ns = '0'").filter("revision.text._VALUE is not null") \
             .filter("length(revision.text._VALUE) > 0")
 
-    #FRA
     external_links = sqlContext.createDataFrame(articles.rdd.map(find_ext_links))
     all_info = conflict_articles.join(external_links, "id", how='inner')
     all_info = all_info.drop("title")
     all_info.write.parquet(args['out'])
-    """
-    
-    # PIETRO
-    regex = r"\[\[(.*?)\]\]"
-    link_regex = re.compile(regex, re.IGNORECASE)
-
-    external_links = []
-
-    def extr_link(text):
-        global external_links
-        external_links = external_links + link_regex.findall(text)
-
-    for i in articles.select("revision.text._VALUE").collect():
-        extr_link(i[0])
-
-    external_links = spark.createDataFrame(external_links, StringType()).selectExpr("value as title")
-
-    group_links = external_links.groupBy("title").agg(countDistinct("title"))\
-        .select("title", F.col("count(DISTINCT title)").alias("external_links"))
-    """
 
 
 def find_ext_links(entity, regex=r"\[\[(.*?)\]\]"):
