@@ -23,8 +23,8 @@ def get_ref_info(entity, full_ref_regex=re.compile(r'(<ref[^>]*[^/]>|<ref[ ]*>){
             field_name = field[0:equal_index].strip()
             field_value = field[equal_index + 1:].strip()
             properties[field_name] = field_value
-        result.append(Row(id=entity.id,
+        result.append(Row(id=entity.id, title=entity.title,
                           template=template.lower(),
-                          url=properties.get("url", ""),
-                          title=properties.get("title")))
+                          url=properties.get("url", "")))
+                          #title=properties.get("title")))
     return result
