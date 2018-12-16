@@ -131,7 +131,7 @@ We want to see how *important* each page is in each category. As we are solely f
 
          SCORE =  views +  links +  references +  length 
         
-        all the features are standardized using [MinMaxScaler](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.MinMaxScaler.html#sklearn.preprocessing.MinMaxScaler). To be able to measure the influence of each component, they need to be comparable and thus on the same range to compute the popularity score. For this reason, we transform the features by scaling each feature to a range between 0 and 1. We used this standardization approach instead of normalization to maintain the structure of the data, i.e. to preserve the distribution of the features.
+    all the features are standardized using [MinMaxScaler](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.MinMaxScaler.html#sklearn.preprocessing.MinMaxScaler). To be able to measure the influence of each component, they need to be comparable and thus on the same range to compute the popularity score. For this reason, we transform the features by scaling each feature to a range between 0 and 1. We used this standardization approach instead of normalization to maintain the structure of the data, i.e. to preserve the distribution of the features.
 
 # Data distribution
 * **Distribution of articles for each keyword**: {war riot conflict protest revolt operation attack annexation genocide insurgency crisis confrontation clash}
