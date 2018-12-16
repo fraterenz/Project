@@ -46,7 +46,8 @@ In order to estimate the popularity of the wikipedia articles, we came up with s
     * military conflict
 
 * **outlier removal and disambiguations removal** 
-    * use keywords (**"war, riot, conflict, protest, revolt, operation, attack, annexation, genocide, insurgency, crisis, confrontation, clash"**) on the article titles to extract from our chosen categories (`civilian attack`, `civil conflict`, `military conflict`)
+    * use categories on the article to extract from a list of categories (`civilian attack`, `civil conflict`, `military conflict`)
+    * remove irrelevant articles 
 
 * **quantify popularity of each page in each category using 4 metrics** 
     * article length
@@ -170,13 +171,6 @@ We counted the number of correct answer for each popularity duel and we found ou
 
 The metric thus seems to capture the popularity of the article. In this 6% of error, most of the errors seem to come more often from a missclick or a confusion rather than an error in our metric. For instance, two users thought that World War I is less popular than 2009 Jaipur fire or Battle of Adwa, which seems a bit unrealistic. Another group of errors arise from 2 unknown conflicts, like 2008 Bin Salman mosque bombing vs the Battle of Marawi. 
 Having established that the metric seems realistic, we continue our investigation by looking at the findings our metric will give: spot important unpopular conflicts!
-
-
-# Questions for TAs
-
-* Number of views of a page: 
-    * We are not sure if we should take into account the “relevance” of the article by normalizing the views of a page. For instance, if there is a civil conflict in Paris, where 2 civilians are found dead. The page would be more visualized than for instance a page talking about an attack in Stockholm, as the Parisian population is twice the size of Stockholm population. Should we normalize by the population size of the country in conflict? 
-    * Another hypothesis could be that the views are not from unique people, meaning that a person can visit multiple times a given page, so the statistics could be a bit biased, no? Maybe by normalizing we can minimize the bias?
 
 
 # External libraries
