@@ -47,7 +47,7 @@ In order to estimate the popularity of the wikipedia articles, we came up with s
 
 * **outlier removal and disambiguations removal** 
     * use categories on the article to extract from a list of categories (`civilian attack`, `civil conflict`, `military conflict`)
-    * remove irrelevant articles 
+    * To remove the outliers, we excluded articles with weird categories that do not seem to match conflicts, e.g. museum, legislation, referendum or shopping mal... In order to do that, we create a set of all categories that are present in our dataset (i.e. military conflicts, civilian conflicts and civilian attack) and we removed all the articles containing the weird categories. This step resulted in 109 article removed.
 
 * **quantify popularity of each page in each category using 4 metrics** 
     * article length
