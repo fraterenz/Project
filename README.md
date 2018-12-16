@@ -1,7 +1,7 @@
 # Biaspedia: Media-driven data
 
 # Notebook
-Select notebook **pipeline.ipynb** to view our pipeline and analysis.
+Select notebook **pipeline.ipynb** to view our pipeline and analysis. To view our data story, click [here](https://pietroairaghi.github.io/biaspedia-gh-pages/)
 
 # Abstract
 
@@ -162,23 +162,6 @@ contrast with "Popular" articles.
 
 # Results of the survey 
 
-<div class="alert alert-block alert-warning">
-<font color='#B8860B'>
-<b>Note</b>
-</font>
-<font color='black'>
-We want to double check that our score is correlated with what people think. We wrote a survey in order to verify that our metric is accurate. We collected 2088 answers from more than 20 people. The user choices between left, right or 'Skip' in order to indicate the most popular conflict between the 2 proposed conflicts, i.e. it is a binary survey. 
-
-The coverage of the survey is not incredible (12%) because we have more than 17 000 articles that can be used to write the survey, and some are really really unknown. Therefore, we randomly selected only articles that correspond to the middle to the top part of our popularity ranking.
-
-We counted the number of correct answer for each popularity duel and we found out that 94 % of the answers to the questionaire match our popularity score, not bad! 
-
-The metric thus seems to capture the popularity of the article. In this 6% of error, most of the errors seem to come more often from a missclick or a confusion rather than an error in our metric. For instance, two users thought that World War I is less popular than 2009 Jaipur fire or Battle of Adwa, which seems a bit unrealistic. Another group of errors arise from 2 unknown conflicts, like 2008 Bin Salman mosque bombing vs the Battle of Marawi. 
-Having established that the metric seems realistic, we continue our investigation by looking at the findings our metric will give: spot important unpopular conflicts!
-</font>
-</div>
-
-
 We want to double check that our score is correlated with what people think. We wrote a survey in order to verify that our metric is accurate. We collected 2088 answers from more than 20 people. The user choices between left, right or 'Skip' in order to indicate the most popular conflict between the 2 proposed conflicts, i.e. it is a binary survey. 
 
 The coverage of the survey is not incredible (12%) because we have more than 17 000 articles that can be used to write the survey, and some are really really unknown. Therefore, we randomly selected only articles that correspond to the middle to the top part of our popularity ranking.
@@ -202,3 +185,8 @@ Having established that the metric seems realistic, we continue our investigatio
 * [WikipediaCitationUsage](https://github.com/epfl-dlab/WikipediaCitationUsage/blob/master/MetaPageQueries.ipynb) to parse references
 
 # Contributions
+* Pietro Airaghi: PageViews, Data cleaning, Website, Survey
+* Francesco Terenzi: Data cleaning, Cluster handling, Data Story visualization 
+* Nasrine Metic: Data acquisition, Data cleaning, Data Story visualization 
+
+Everyone will work on the final presentation to design and structure the poster. Then one of us will be taken to present the work.
