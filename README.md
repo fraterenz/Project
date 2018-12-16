@@ -5,31 +5,38 @@ Select notebook **pipeline.ipynb** to view our pipeline and analysis.
 
 # Abstract
 
+**How do we beat top-ranking Wikipedia content?**
 
-To investigate our hypothesis, we contrast **popular** articles vs **non-popular** articles on Wikipedia. As a pilot-phase, we focus solely on articles that all have as common subject: `civilian attack`, `civil conflict`, `military conflict`. In other words, we look at such subject-related articles and quantify their popularity and importance using a score with different **metrics** detailed below. Our objective is to showcase articles which are well known *(‘Syria war, ...’)* in comparison to articles which are less heard-of, less *popular* so that journalists,  aspiring writers or people can be informed by other facts. It can also help a journalist if he is having a writer’s block or has run out of stories to write about. To determine the *popularity* of an article, we define a metric of popularity based on 4 metrics: 
+We suppose that Wikipedia is facing the common problem as pages in Google. Highly popular articles are popular also because they have a lot of backlinks or pages that are redirected to them. Imagine you're a journalist or a active blogger writing about an article on Afghanistan news. You google and enter the `Afghanistan` article on Wikipedia to get the resources quickly. Entering wikipedia articles through search engines such as Google can be tricky because even if it yields decent amount of content, you will never find an unpopular Wikipedia page. Once you find enough content on Wikipedia, you'll return to your adored search engine. So, why would you keep searching for that unpopular `inexistent` page? 
 
-* page views
-* page references
-* article length
-* external links
+As a pilot-phase, we focus solely on articles that all have as common subject: `civilian attack`, `civil conflict`, `military conflict`. In other words, we look at such subject-related articles and quantify their popularity and importance using a score with different **metrics** detailed below. 
 
-Also, it should be noted that certain conflicts *(Rohingya, ...)*  which were unknown a couple of years ago, have become of increasing interest. Possible future directions include: 
-* finding a way to show this increasing in interest over the years if possible
-* Highlight media included in the references of popular vs unpopular articles: *Which top domains are mentioned?  What kind of media are present?*
+Our goal is to showcase articles which may be less popular so that you can be informed by facts and topics you may search or need using English Wikipedia. This can help promote less visible articles so that they can be improved, edited, viewed and thus contribute to our knowledge of the on-going events!
 
+Also, for a journalist, it may really be helpful because instead of covering incredibly adverstised topics, they may get the opportunity to be the first to right their own story about an uncovered subject. Their research can improve the article visibility and give more importance to a hidden world. 
+
+We hypothesize that unkown articles are not necessarily unimportant! 
+
+In order to estimate the popularity of the wikipedia articles, we came up with some metrics, stemming from intuition and some good references ([1](https://en.wikipedia.org/wiki/Help:Drawing_attention_to_new_pages#How_do_I_get_others_to_notice_the_page_I_just_created?)) and ([2](https://en.wikipedia.org/wiki/Wikipedia:Pageview_statistics#What_factors_can_increase_a_page's_viewing?)) became good indicators to select our candidates. 
+
+4 characteristics of an article could be used to identify the popularity of an article:
+* [x] page references
+* [x] page views
+* [x] external links
+* [x] article length
 
 
 # Research questions
 
+* How can we develop a metric of popularity to rank Wikipedia pages?
 * Does current knowledge or media coverage correlate with the most popular Wikipedia pages? 
-* How to provide an unbiased source of information? Would the extrapolation and the presentation of less known wikipedia articles provide an unbiased source of information?
-* What are the respective contributions to such popular pages from parts of the world? (to be discussed)
+* Are popular articles always important? 
 
 
 # Dataset
 
 * **Wikipedia pages content**: data size and format: 64.2 G in one single .xml file
-* **API** to get views
+* **pageview API** to get views
 
 # Pipeline 
 
@@ -121,11 +128,9 @@ We want to see how *important* each page is in each category. As we are solely f
 
     We define the popularity score of an article as:
 
-         SCORE = w1 * views + w2 * links + w3 * references + w4 * length 
+         SCORE =  views +  links +  references +  length 
         
-        w1, w2, w3 and w4 are arbitrary weigths that normalize the features.
-
-    We have noticed that the features references,length and views seem to follow a power law. Therefore, we use the 1/median to construct the weights associated to them.
+        all the features are standardized using [MinMaxScaler](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.MinMaxScaler.html#sklearn.preprocessing.MinMaxScaler). To be able to measure the influence of each component, they need to be comparable and thus on the same range to compute the popularity score. For this reason, we transform the features by scaling each feature to a range between 0 and 1. We used this standardization approach instead of normalization to maintain the structure of the data, i.e. to preserve the distribution of the features.
 
 # Data distribution
 * **Distribution of articles for each keyword**: {war riot conflict protest revolt operation attack annexation genocide insurgency crisis confrontation clash}
@@ -133,7 +138,10 @@ We want to see how *important* each page is in each category. As we are solely f
     * Histogram
     * Log-log plot
     * Boxplot with and without outliers
-* **Percentage of references for domains**: top 3 references are : {books.google.com, www.nytimes.com, www.theguardian.com}
+* **Percentage of references for domains**: 
+    * top 3 references are : {books.google.com, www.nytimes.com, www.theguardian.com}
+    * top 3 references after analyzing articles (describing conflicts after 1995): {www.reuters.com, www.almasdarnews.com, www.nytimes.com}. Interestingly, the media has changed as the conflicts are more oriented towards the Middle East.
+
 * **Distribution of number of views**: follows a power law. The distribution has a heavy-tailed distribution
     * Histogram
     * Log-log plot
@@ -142,40 +150,55 @@ We want to see how *important* each page is in each category. As we are solely f
     * Histogram
     * Log-log plot
 
-# For milestone 3
-* Infer a list of less relevant pages (these will be the least discussed and least known pages nowadays), and 
+# End of milestone 3
+* [x] Infer a list of less relevant pages (these will be the least discussed and least known pages nowadays), and 
 contrast with "Popular" articles.
 
-* Compute popularity metric **external links**
+* [x] Compute popularity metric **external links**
 
-* Contrast references between *popular* and *nonpopular* articles, see if a bias is present
+* [x] Contrast references between *popular* and *nonpopular* articles in ongoing events 
 
-* Evaluate importance criterion: number of deaths
+* [x] Evaluate metric of popularity through a survey 
 
-* Understand how to use a propensity score if it is needed
+# Results of the survey 
 
-* Create a function that describe the data, instead of computing it again and again:
-    * boxplot
-    * log-log
-    * plot distribution
-    
-* Discuss the weights if it is just correct to divide by the median?
+<div class="alert alert-block alert-warning">
+<font color='#B8860B'>
+<b>Note</b>
+</font>
+<font color='black'>
+We want to double check that our score is correlated with what people think. We wrote a survey in order to verify that our metric is accurate. We collected 2088 answers from more than 20 people. The user choices between left, right or 'Skip' in order to indicate the most popular conflict between the 2 proposed conflicts, i.e. it is a binary survey. 
+
+The coverage of the survey is not incredible (12%) because we have more than 17 000 articles that can be used to write the survey, and some are really really unknown. Therefore, we randomly selected only articles that correspond to the middle to the top part of our popularity ranking.
+
+We counted the number of correct answer for each popularity duel and we found out that 94 % of the answers to the questionaire match our popularity score, not bad! 
+
+The metric thus seems to capture the popularity of the article. In this 6% of error, most of the errors seem to come more often from a missclick or a confusion rather than an error in our metric. For instance, two users thought that World War I is less popular than 2009 Jaipur fire or Battle of Adwa, which seems a bit unrealistic. Another group of errors arise from 2 unknown conflicts, like 2008 Bin Salman mosque bombing vs the Battle of Marawi. 
+Having established that the metric seems realistic, we continue our investigation by looking at the findings our metric will give: spot important unpopular conflicts!
+</font>
+</div>
+
+
+We want to double check that our score is correlated with what people think. We wrote a survey in order to verify that our metric is accurate. We collected 2088 answers from more than 20 people. The user choices between left, right or 'Skip' in order to indicate the most popular conflict between the 2 proposed conflicts, i.e. it is a binary survey. 
+
+The coverage of the survey is not incredible (12%) because we have more than 17 000 articles that can be used to write the survey, and some are really really unknown. Therefore, we randomly selected only articles that correspond to the middle to the top part of our popularity ranking.
+
+We counted the number of correct answer for each popularity duel and we found out that 94 % of the answers to the questionaire match our popularity score, not bad! 
+
+The metric thus seems to capture the popularity of the article. In this 6% of error, most of the errors seem to come more often from a missclick or a confusion rather than an error in our metric. For instance, two users thought that World War I is less popular than 2009 Jaipur fire or Battle of Adwa, which seems a bit unrealistic. Another group of errors arise from 2 unknown conflicts, like 2008 Bin Salman mosque bombing vs the Battle of Marawi. 
+Having established that the metric seems realistic, we continue our investigation by looking at the findings our metric will give: spot important unpopular conflicts!
+
 
 # Questions for TAs
-
-* Discuss the weights if it is just correct to divide by the median?
 
 * Number of views of a page: 
     * We are not sure if we should take into account the “relevance” of the article by normalizing the views of a page. For instance, if there is a civil conflict in Paris, where 2 civilians are found dead. The page would be more visualized than for instance a page talking about an attack in Stockholm, as the Parisian population is twice the size of Stockholm population. Should we normalize by the population size of the country in conflict? 
     * Another hypothesis could be that the views are not from unique people, meaning that a person can visit multiple times a given page, so the statistics could be a bit biased, no? Maybe by normalizing we can minimize the bias?
 
-* Should we use a type of propensity score to correct for bias? If so, how could we procede?
-
-* For the popularity score, we calculated the weights of each popularity metric as 1/median of the popularity metric. Is this too relaxed?
-
-
 
 # External libraries
 * [wptools wiki](https://github.com/siznax/wptools/wiki) to help us parse the data
 * [mwviews](https://github.com/mediawiki-utilities/python-mwviews)
+* [WikipediaCitationUsage](https://github.com/epfl-dlab/WikipediaCitationUsage/blob/master/MetaPageQueries.ipynb) to parse references
 
+# Contributions
