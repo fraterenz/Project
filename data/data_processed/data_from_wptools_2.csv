@@ -1,0 +1,692 @@
+,n_conflict,id,title,categories,article_lenght,views,refs_count,link_count,death,locations,end_date_clean,ongoing
+608,608,29579740,2010 student protest in Dublin,civil conflict,18501,8757,26,85,,Dublin|Ireland,2010.0,False
+609,609,29715626,Bombardment of Yeonpyeong,military conflict,74974,330683,127,258,'''South Korean claim:'''<br>5–10 killed and 30 wounded <br>'''North Korean claim:'''<br>At least 5 killed |caus2| 2 soldiers killed<br>19 soldiers wounded<br>2 civilians killed<br>3 civilians wounded<br>Two [[K-9 Thunder|K-9s]] damaged,Yeonpyeong  Q273890,2010.0,False
+610,610,29775334,2010 Rio de Janeiro security crisis,military conflict,13095,12508,10,85,2 civilians killed during the violence,Rio  de  Janeiro  Q8678,2010.0,False
+611,611,29775561,Korangal Valley campaign,military conflict,6749,30018,7,30,'''US casualties'''<br>54 killed and several hundred wounded<br>'''ANA casualties'''<br>Larger number of soldiers killed than US forces |caus2| Unknown,Korangal  Valley  Q6431405,2010.0,False
+612,612,29790491,Operation Bulldog Bite,military conflict,5616,12600,9,20,"'''U.S. casualties'''<br>7 killed, 30+ wounded<br>'''ANA casualties'''<br>3 killed |caus2| 52-150 killed",Kunar  Q188147,2010.0,False
+613,613,29877074,Pankisi Gorge crisis,military conflict,6449,23112,7,41,,Pankisi  Gorge  Q627095,2011.0,False
+614,614,29938803,Operation Baawar,military conflict,8636,10089,11,29,,Kandahar  Q45604,2010.0,False
+615,615,29946418,First and Second Battles of Kakarak,military conflict,16496,4694,13,45,1 killed |caus2| Heavy,Kakarak|Orūzgān  Province|Afghanistan,2009.0,False
+616,616,30112358,Operation Blow to the Head,military conflict,4422,13703,4,34,unknown |caus2| 24 killed<br>25 captured,Sa dah  Q991395,2010.0,False
+617,617,30113198,Battle of Kismayo (2009),military conflict,1698,3709,1,18,,Kismayo  Q270787,2009.0,False
+618,618,30132285,Operation Dragon Strike,military conflict,9683,26099,17,33,'''U.S. casualties'''<br>34 killed <br>'''Canadian casualties'''<br>1 killed<br>'''Afghan casualties'''<br>7+ policemen killed |caus2| Heavy,Kandahar  Q173808,2010.0,False
+619,619,30158583,Operation Sayeed,military conflict,27388,3736,17,98,,Hīt  Q2422345,2005.0,False
+620,620,30230141,2010–11 Ivorian crisis,military conflict,72736,37235,138,139,"1,000 -1,500+ civilians killed and 100 missing overall, one million civilians fled since disputed election",Ivory  Coast  Q1008,2011.0,False
+621,621,30244044,Tunisian Revolution,civil conflict,107907,570549,203,296,+219,Tunisia  Q948,2011.0,False
+622,622,30281754,Galgala campaign,military conflict,9813,9955,20,34,"100+ civilians killed <br/>
+800 people displaced (July–August)",Galgala  Q4897571,2014.0,False
+623,623,30371163,Bombing of Kandahar (2001),military conflict,8852,994,11,79,Unknown |caus2| Unknown,In  and  around  Kandahar|Islamic  State  of  Afghanistan Afghanistan,2001.0,False
+624,624,30403205,Operation Zalzala,military conflict,9459,9268,9,45,6 soldiers dead |caus2| 25-55 TTP fighters killed,Spinkai  Q7577573,2008.0,False
+625,625,30406724,2010–12 Algerian protests,civil conflict,84808,66323,149,231,,Algeria  Q262,2012.0,False
+626,626,30416561,Operation Sirat-e-Mustaqeem,military conflict,6971,9586,6,32,1 soldier killed |caus2| 2 militants killed,Bara  Tehsil  Q4858054,2008.0,False
+627,627,30554072,Operation Dawn of Gulf of Aden,military conflict,18981,40239,28,82,1 civilian wounded,Arabian  Sea  Q58705,2011.0,False
+628,628,30583628,Incident at Pristina airport,military conflict,11196,127350,8,60,None,Pristina  International  Airport  Adem  Jashari  Q643783,1999.0,False
+629,629,30650490,Operation Rock Avalanche,military conflict,10304,84470,11,45,At least 10 Afghan civilians,Korengal  Valley|Kunar|Afghanistan,2007.0,False
+630,630,30656841,Yemeni Revolution,civil conflict,93158,155255,176,385,+2000,Yemen  Q805,2012.0,False
+631,631,30706524,Libyan Civil War (2011),military conflict,205271,778599,369,545,"Estimated total casualties from all sides, including civilians:<br>9,400–20,000 killed, 4,000 missing, 50,000 injured <br/>(other estimates: see [[Casualties of the Libyan civil war|here]])",Libya  Q1016,2011.0,False
+632,632,30711691,Samaikyandhra Movement,civil conflict,62279,37844,112,154,,13  districts  of  Coastal  Andhra Rayalaseema,2014.0,False
+633,633,30717877,2011 Albanian opposition demonstrations,civil conflict,17732,18496,30,53,4 fatalities <br />150+ injuries,flag Albania,2011.0,False
+634,634,30876395,Bahraini uprising of 2011,civil conflict,215738,116462,383,639,,Bahrain  Q398,2014.0,False
+635,635,30920463,2011 Iraqi protests,civil conflict,16498,25500,29,73,,Iraq,2011.0,False
+636,636,30953015,2011 Wisconsin protests,civil conflict,235659,124129,393,478,"{{unbulleted list
+ | '''Arrests:''' 10+|ref|{{cite news|url=http://www.myfoxtwincities.com/dpp/news/wisconsin-protester-arrested-feb-17-2011|title=9 Arrests on Day 3 of Wisconsin Protests|author=AP modified|agency=Associated Press|publisher=Myfoxtwincities.com|date=February 17, 2011|accessdate=2011-03-04}}|</ref>|ref|{{cite news|url=http://www.thenorthwestern.com/article/20110217/OSH0101/302170116/9-arrested-third-day-labor-protests-Madison |title=9 arrested in third day of labor protests in Madison |work=The Oshkosh Northwestern |location=Oshkosh, WI |agency=Associated Press |author=AP staff reporter |date=February 17, 2011 |accessdate=2011-03-04 |deadurl=yes |archiveurl=https://web.archive.org/web/20110222212517/http://www.thenorthwestern.com/article/20110217/OSH0101/302170116/9-arrested-third-day-labor-protests-Madison |archivedate=February 22, 2011 |df= }}|</ref>|}}",Madison|Wisconsin|U S,2011.0,False
+637,637,30953438,2011 Chinese pro-democracy protests,civil conflict,55912,78776,74,131,,China,2011.0,False
+638,638,30956234,Battle of Al Kut,military conflict,2531,17617,1,30,'''Killed:''' 1<br/>'''Wounded:''' 6 |caus2| '''Killed:''' 180-200,Kut  Q328030,2004.0,False
+639,639,30958017,2011 Djiboutian protests,civil conflict,8816,15522,12,35,,Djibouti,2011.0,False
+640,640,30971764,2011 Omani protests,civil conflict,40181,33303,82,75,,Oman,2011.0,False
+641,641,30972059,SY Quest incident,military conflict,9226,43818,10,55,None |caus2| 4 killed<br>15 captured<br>1 yacht captured,off  Oman|Indian  Ocean,2011.0,False
+642,642,30983489,Gdeim Izik protest camp,civil conflict,30362,25943,41,80,"'''Fatalities'''
+:18 Morocco police officers dead |caus2| '''Injuries'''
+:173 Morocco officials
+:1200 Polisario rioters",Western  Sahara,2010.0,False
+643,643,30999052,Battle of Misrata,military conflict,110524,35554,241,92,"1,215 killed* <br>900 missing or captured** <br>4,000 wounded <br>at least 1 tank destroyed |caus2| 358 killed <br>150 -230 captured<br>20 [[T-72]] tanks, 4 [[T-54/55|T-55]] tanks, 2 [[Infantry fighting vehicle|BMPs]], 1 [[ZSU-23-4|Shilka]], 3 [[Armoured personnel carrier|APC]]s and 1 [[Military engineering vehicle#T-72|IMR-2]] destroyed, 1 helicopter shot down
+----
+32–44 tanks destroyed or damaged, 1 [[ZSU-23-4|Shilka]], 1 mobile [[Multiple rocket launcher|MRL]], 6 [[Soko G-2 Galeb]] aircraft, 2 [[Mi-24|Mi-35]] attack helicopters and 1 [[Patrol boat|MFPB]] destroyed and 1 coast guard vessel and 1 MFPB damaged by Coalition forces (UN/NATO claim)",Misrata  Q131323,2011.0,False
+644,644,31008162,Tripoli protests and clashes (February 2011),military conflict,21977,6451,43,82,300 -700 killed |caus2| Unknown,Tripoli  Q3579,2011.0,False
+645,645,31008835,First Battle of Benghazi,military conflict,13449,33348,19,35,"''Benghazi'': 110 -257 killed, 9 missing <br>''Bayda'': 63 killed <br>''Derna'': 29 killed <br>''Rebel soldiers'': 130 killed <br>'''Total''': 332-479 killed, 9 missing<br>3 [[T-54/55]] tanks or [[Infantry fighting vehicle|BMP]]s destroyed |caus2| 163 killed, 236 captured<br>3 [[T-54/55]] tanks or [[Infantry fighting vehicle|BMP]]s destroyed",Benghazi  Q40816,2011.0,False
+646,646,31062367,Second Ivorian Civil War,military conflict,51256,126273,94,118,"3,000 killed overall",Ivory  Coast  Q1008,2011.0,False
+647,647,31065813,Mano Gai airstrike,military conflict,5669,17264,11,21,,Dara- I- Pech  Q2663248,2011.0,False
+648,648,31071502,Battle of Shawali Kowt,military conflict,2522,19467,2,22,,Shawali  Kowt|Arghandab  River|Islamic  State  of  Afghanistan Afghanistan,2001.0,False
+649,649,31071822,Battle of Sayyd Alma Kalay,military conflict,2765,18732,1,23,,Sayyd  Alma  Kalay|Arghandab  River|Afghanistan,2001.0,False
+650,650,31072646,Battle of Ebrahimkhel,military conflict,5052,7951,1,33,,Ebrahimkhel|Eastern  Afghanistan Where date May  2013,2008.0,False
+651,651,31078336,Impact of the Arab Spring,civil conflict,73224,95908,127,274,,Worldwide  outside  the  Arab  countries,2012.0,False
+652,652,31085100,Battle of Ra's Lanuf,military conflict,19596,6543,36,27,"16-26 rebels killed (First phase) <br>20 rebels killed (Second phase/bombardment) <br>15 killed, 65 missing (Second phase/ground fighting) <br>20 mutinous loyalists executed <br>'''Total dead & missing:'''<br>136-146 killed or missing<br>'''Total captured:''' 1,500 (Government claim) |caus2| 2 -25 soldiers killed, 2 pilots killed, 1 [[Sukhoi Su-24|Su-24MK]] shot down (First phase)<br />Unknown (Second phase)",Ra s  Lanuf  Q58462,2011.0,False
+653,653,31109644,2011 Indiana legislative walkouts,civil conflict,7604,3113,9,22,,,2011.0,False
+654,654,31142430,2011 military intervention in Libya,military conflict,159230,839389,277,602,72 civilians killed <br>40 civilians killed in Tripoli (Vatican claim),Libya,2011.0,False
+655,655,31152358,2004 Qamishli riots,civil conflict,14469,18537,24,58,,Qamishli|al- Hasakah  Governorate|Syria,2004.0,False
+656,656,31175275,Second Battle of Brega,military conflict,6652,5226,13,20,"5-7 killed |caus2| 25 killed, 71 captured (unconfirmed rebel claims)",Brega  Q36219,2011.0,False
+657,657,31215576,2011 Armenian protests,civil conflict,44767,14840,72,137,,Yerevan|Armenia,2011.0,False
+658,658,31221254,Operation Ellamy,military conflict,43821,94991,79,144,"Unknown, unverified claim by Gaddafi-controlled Libyan state media of 48 civilians killed, 150 wounded as a result of all UN operations {{Dubious|Casualties|date|=|March 2011}} <br>40 civilians killed (in Tripoli; Vatican claim) <br>Coalition forces have not reported any casualties on either side.",Libya,2011.0,False
+659,659,31228698,Second Battle of Benghazi,military conflict,12401,23999,21,47,"261 killed* <br>[[MiG-23]] shot down (by friendly fire) |caus2| 27–30 killed; <br>50 captured; <br>70 vehicles destroyed: <br>14 tanks or [[Palmaria (artillery)|SP howitzers]], 20 [[Armoured personnel carrier|APCs]], 2 mobile [[Multiple rocket launcher|MRLs]], 1 mobile [[9K33 Osa|SAM]] and 33 jeeps, SUVs, [[Technical (vehicle)|technicals]] or trucks; <br>4 tanks captured",Benghazi  Q40816,2011.0,False
+660,660,31232347,Operation Odyssey Dawn,military conflict,56269,219233,108,234,114 civilians killed and 445 wounded (Libyan health ministry claim)* <br />40 civilians killed (in Tripoli; Vatican claim),Libya  Q1016,2011.0,False
+661,661,31233010,Opération Harmattan,military conflict,21207,44169,31,120,"Unknown, unverified claim by Gaddafi-controlled Libyan state media of 48 civilians killed, 150 wounded as a result of all UN operations <br>40 civilians killed (in Tripoli; Vatican claim)",Libya,2011.0,False
+662,662,31235268,Operation Mobile,military conflict,24757,43943,41,104,None |caus2| Unknown,Libya,2011.0,False
+663,663,31253359,Battle of Afghanya,military conflict,3535,10386,1,34,3 wounded |caus2| unknown,Kapisa  Q173816,2008.0,False
+664,664,31265902,Operation Murat,military conflict,3827,8788,7,28,"3 killed <br> |caus2| 58 killed<br>
+3+ captured",South- Eastern  Turkey,1998.0,False
+665,665,31271272,Battle of Gharyan,military conflict,8718,4147,18,27,35 killed |caus2| Unknown,Gharyan  Q867102,2011.0,False
+666,666,31279643,Operation Unified Protector,military conflict,45701,96267,66,315,,Libya  Q1016|Mediterranean  Sea  Q4918,2011.0,False
+667,667,31301117,Anti-austerity movement in the United Kingdom,civil conflict,63260,27125,113,278,,London  Q84|Manchester  Q18125,2011.0,False
+668,668,31302275,Third Battle of Brega,military conflict,23005,9867,42,61,South African photographer [[Anton Hammerl]] killed by Pro-Gadaffi soldiers,Brega  Q36219,2011.0,False
+669,669,31332235,First Gulf of Sidra offensive,military conflict,11526,8220,19,53,7 civilians killed in a [[NATO]] air-strike near [[Brega]].,Sirte  Q162413,2011.0,False
+670,670,31332305,Battle of Bin Jawad,military conflict,10355,7077,19,22,12 -60 killed<br>700 missing* <br>60 wounded |caus2| at least 1 killed <br>1 helicopter shot down,Bin  Jawad  Q117564,2011.0,False
+671,671,31342969,Fourth Battle of Brega,military conflict,41125,8078,101,35,1 civilian killed,Brega  Q36219,2011.0,False
+672,672,31345714,Second Battle of Bin Jawad,military conflict,4182,2368,8,21,20 dead |caus2| unknown,Bin  Jawad  Q117564,2011.0,False
+673,673,31430971,2011 Nafusa Mountains campaign,military conflict,96044,3805,196,98,517–534 killed* <br>136 missing |caus2| 397 killed** <br>215 –295 captured**<br>several tanks destroyed**<br>10+ tanks or armored vehicles captured,Nafusa  Mountains  Q165620,2011.0,False
+674,674,31446763,Battle of Brega–Ajdabiya road,military conflict,52748,9571,105,149,"26-46 Libyan and 1 Algerian civilian killed,<br>70 Libyan civilians missing",Brega  Q36219,2011.0,False
+675,675,31446793,Battle of Ajdabiya,military conflict,26362,11588,47,40,25 –30 civilians killed,Ajdabiya  Q202991,2011.0,False
+676,676,31471747,Mexican Indignados Movement,civil conflict,11516,19083,15,53,,Throughout  Mexico,2011.0,False
+677,677,31490259,2011–12 Kurdish protests in Turkey,civil conflict,52820,12325,88,266,,flag Turkey,2012.0,False
+678,678,31530227,1999 Latakia protests,civil conflict,6943,14160,2,34,,Latakia|Latakia  Governorate|Syria,1999.0,False
+679,679,31535929,Battle of Ganjgal,military conflict,16446,128379,21,59,{{flagdeco|United States}} 5 KIA <br> {{flagdeco|Afghanistan}} 8 KIA |caus2| Approx. 16 KIA,Ganjgal  village|Kunar  Province|Afghanistan,2009.0,False
+680,680,31544357,Operation Tar Heels,military conflict,4384,7178,1,20,"at least 2 killed, at least 1 wounded |caus2| around 29 killed",Laghman  Q185442,2005.0,False
+681,681,31567209,Battle of Wazzin,military conflict,15231,15452,33,29,"1 civilian wounded
+Several houses destroyed or damaged<br>
+Several soldiers killed or injured in border incursions",Wazzin  Q68385|Dehiba  Q1015418,2011.0,False
+682,682,31611780,2005 Ahvaz unrest,civil conflict,15391,10705,17,58,,,2005.0,False
+683,683,31630217,Battle of Gedo,military conflict,15988,5234,29,74,At least 27 civilians killed<br>At least 380 killed in total,Gedo  Q856719,2012.0,False
+684,684,31674722,Sazak assault,military conflict,3039,6567,4,22,4 killed |caus2| 0,Reşadiye  Q2248599,1997.0,False
+685,685,31713389,Battle off Minicoy Island,military conflict,6965,15318,9,48,none |caus2| 10 killed<br>15 captured<br>1 trawler sunk,off  Minicoy Minicoy  Island|India|Indian  Ocean,2011.0,False
+686,686,31726355,Battle of Kandahar (2011),military conflict,6616,19916,4,21,"6 killed in assault, 4 wounded<br>6 killed in separate assault*<br>2 Afghan Security Forces killed |caus2| 25 killed<br>7 captured",Kandahar  Q45604,2011.0,False
+687,687,31728691,Cyrenaican desert campaign,military conflict,9895,5162,17,28,5 civilians killed,Eastern  Libyan  Desert|Libya,2011.0,False
+688,688,31742617,MV Beluga Nomination incident,military conflict,6018,11785,5,49,unknown |caus2| 1–2 killed<br>1 freighter damaged,off  Somalia|Indian  Ocean,2011.0,False
+689,689,31750526,Operation Ocean Shield,military conflict,25244,128303,24,154,,Indian  Ocean  Q1239,2016.0,False
+690,690,31760357,Battle of Jubbada Hoose,military conflict,1793,3573,1,18,"Total: + 75 killed |caus2| Total: + 3 killed, 12 injured",Lower  Juba  Q877042,2011.0,False
+691,691,31860763,Albania–Yugoslav border incident (April 1999),military conflict,9047,8762,7,56,3 houses destroyed,Krumë  Q958899,1999.0,False
+692,692,31865358,PNS Mehran attack,military conflict,38559,42509,41,131,'''[[Killed in Action]] (Total 18)''':<br/>11 naval officers <br/>1 fireman <br/>3 SSG(N) officers<br/>1 sailor <br/>2 Army Rangers <br/>'''[[Wounded in Action]]''':<br/>16 naval personnel <br/>'''Physical damage:'''<br/>2 [[P3 Orion|P3C Orion aircraft]] destroyed. |caus2| '''Killed in Action''':<br/>4 militants <br/>'''Wounded in Action'''<br/>5 militants<br/>'''Caught''':<br/>4 militants <br/>2 militants escaped.,Karachi  Q8660,2011.0,False
+693,693,31871176,Turkish army winter Campaign of 1994–95,military conflict,2433,5375,2,19,38 civilians killed <br>(Turkish claim),Southeastern  Turkey,1995.0,False
+694,694,31895753,Battle of Sana'a (2011),military conflict,42461,13899,78,60,149+ civilians killed <br>16 unidentified killed,Sana a  Q2471,2011.0,False
+695,695,31911811,Timeline of the Yemeni Revolution (January – 2 June 2011),civil conflict,107965,4766,192,242,,Yemen,2012.0,False
+696,696,31941905,Battle of Zinjibar,military conflict,39036,16237,77,98,33 civilians killed,Zinjibar  Q204391,2011.0,False
+697,697,31970606,Battle of Taiz (2011),military conflict,9130,5833,21,23,4 civilians killed,Ta izz  Q466216,2011.0,False
+698,698,32000410,2011 Israeli border demonstrations,civil conflict,29965,13128,50,95,,Borders  of  Israel br  bulleted  list  Flagu Egypt Flagu Jordan Flagu Lebanon flagu Palestinian  National  Authority flagu Syria Flagu Egypt Flagu Jordan Flagu Lebanon flagu Palestinian  National  Authority flagu Syria,2011.0,False
+699,699,32004318,June 2011 Jisr ash-Shugur operation,military conflict,6589,16466,10,20,"172 killed, 2,000 arrested<br/><small>(opposition claim)</small> |caus2| 120–140 killed",Jisr  al- Shughur  Q798765,2011.0,False
+700,700,32025295,2011 Chaozhou riot,civil conflict,6145,3464,8,25,18 people injured,Huayi  Ceramics  Factory|Guxiang|Chao an  County|Chaozhou|Guangdong|People s  Republic  of  China,2011.0,False
+701,701,32052315,Battle of the Misrata frontline,military conflict,49827,6880,117,50,"14 civilians killed in the Misrata area, <br>100+ civilians killed in the Zliten area**",Misrata  District  Q32845,2011.0,False
+702,702,32057777,Zawiya skirmish,military conflict,8736,4259,15,23,1 civilian killed,Zawiya  Q221503,2011.0,False
+703,703,32064464,2011 Sabha clashes,military conflict,5865,4756,7,26,At least 1 killed |caus2| Unknown,Sabha  Q208389,2011.0,False
+704,704,32071886,2011–13 Chilean student protests,civil conflict,40592,56024,53,158,,Chile,2013.0,False
+705,705,32104474,Sudanese conflict in South Kordofan and Blue Nile,military conflict,155430,227552,269,259,"'''Total''':<br> {{circa}} 643 –1,500 killed <br> 500,000 displaced",South  Kordofan  Q465490,2011.0,False
+706,706,32112330,Second Battle of Zawiya,military conflict,25269,6008,53,38,24 civilians killed,Zawiya  Q221503,2011.0,False
+707,707,32113032,Battle of Sabha,military conflict,12698,10683,30,33,"18 killed |caus2| 19 killed, 150 captured",Sabha  Q208389,2011.0,False
+708,708,32116405,Battle of Zliten,military conflict,24401,4293,52,33,100+ civilians killed**,Zliten  Q207259,2011.0,False
+709,709,32127920,Dissident Irish Republican campaign,military conflict,42284,200981,86,203,"13 Killed [[Michael Stone (loyalist)#Stormont arrest|1]] Arrested<br>6 Killed , [[Harry Stockman (loyalist)|1]] injured,1 arrested<br>2 Killed <br>LVF: 5 killed , 1 arrested<br />[[Red Hand Defenders|RHD]]: [[Frankie Curry#Death and aftermath|1 killed by UDA]], 4 arrested<br />[[Real Ulster Freedom Fighters|RUFF]]: 1 arrested<br />Orange Volunteers: 14 arrested",Northern  Ireland  Q26,1998.0,False
+710,710,32168561,2011 Northern Ireland riots,civil conflict,8086,15524,14,45,300+ injuries |caus2| 50+ arrests,Belfast|Portadown|Newry|Ballyclare|Larne|Derry|Ballymena,2011.0,False
+711,711,32304516,2011 Belarusian protests,civil conflict,6809,22043,12,26,,flag Belarus 1995,2011.0,False
+712,712,32394672,1997 Northern Ireland riots,military conflict,40988,4200,56,176,"1 civilian killed <br>over 100 people injured, <br>117 arrested |caus2| 62 constables injured, <br>at least 3 soldiers injured,<br>some armoured vehicles badly damaged or destroyed",Irish  nationalism Irish  nationalist districts  of  Northern  Ireland,1997.0,False
+713,713,32487859,2011 Kurdish protests in Iraq,civil conflict,11036,16215,19,39,,Northern  Iraq,2011.0,False
+714,714,32489786,Fezzan campaign,military conflict,19807,9089,38,80,"28 killed, 44 wounded |caus2| 51 killed",Fezzan  Q188258,2011.0,False
+715,715,32552783,2010 Tsentoroy attack,military conflict,15460,6953,14,46,'''Civilians''' <br /> 7 wounded,Tsentoroy|Chechnya,2010.0,False
+716,716,32660478,2011 Msallata clashes,military conflict,4055,3623,4,20,3 killed |caus2| Unknown,Msallata  Q2719867,2011.0,False
+717,717,32728625,Battle of Tawergha,military conflict,8761,7882,17,41,"15 killed, 85+ wounded <br>1 tank [[T-55]] destroyed |caus2| 4 killed, at least 60 claimed captured
+----
+2 [[Technical (vehicle)|technicals]], 1 [[ZSU-23-4|Shilka]] destroyed (NATO claim)",Tawergha  Q650227,2011.0,False
+718,718,32729315,Deir ez-Zor clashes (2011–14),military conflict,69933,60841,131,103,,Deir  ez- Zor  Q239097,2014.0,False
+719,719,32740690,First Battle of Zawiya,military conflict,28905,9334,60,94,"235 &ndash;600 killed,** 300+ wounded, 37 captured, up to 50 [[T-54/55|tanks]], [[Armoured personnel carrier|APCs]] and [[2S1 Gvozdika|SP howitzers]] destroyed or captured |caus2| 65 killed, 29&ndash;31 captured, 50 wounded, at least 4 [[T-72]] tanks or [[Infantry fighting vehicle|BMP]]s and 1 [[ZSU-23-4|Shilka]] destroyed",Zawiya  Q221503,2011.0,False
+720,720,32748504,2011 Libyan rebel coastal offensive,military conflict,30291,11246,66,93,26 civilians killed,Western  Libyan  coast|Libya,2011.0,False
+721,721,32786931,2011 southern Israel cross-border attacks,"civilian attack, military conflict, terrorist attack",72593,35691,133,221,+23,Southern  District  Q188781,2011.0,False
+722,722,32801223,Zliten uprising,military conflict,10056,3685,19,28,"22 killed |caus2| 4 tanks destroyed, other casualties unknown",Zliten  Q207259,2011.0,False
+723,723,32812921,Battle of Tripoli (2011),military conflict,64701,105719,128,210,108 civilians killed <br>167 unidentified killed,Tripoli  Q3579,2011.0,False
+724,724,32824447,Battle of Do Ab,military conflict,4609,22321,2,30,None |caus2| 270 killed (US estimate),Nuristan  Q167485,2011.0,False
+725,725,32838432,2011 Ras Ajdir clashes,military conflict,5189,3430,11,21,,Ras  Ajdir  Q597189,2011.0,False
+726,726,32839751,August 2011 Turkey-Iraq cross-border raids,military conflict,8827,14631,18,29,"[[ROJ TV]], PKK's broadcast outlet and the Iraqi Foreign Ministry claimed that 7 Iraqi Kurdish civilians, including three under the age of 18 were killed in a car. ROJ TV has shown pictures which depict a car bombed in a road. In response to these allegations, Turkish ambassador to Iraq has delivered the visual evidence. The surveillance images shows that in the road there is no craters which would be created by high explosive bombs used by the Turkish military.",Iraqi  Kurdistan  Q205047,2011.0,False
+727,727,32855867,Second Gulf of Sidra offensive,military conflict,39480,9177,88,57,"800 civilians killed (NTC claim) <br>2,151 civilians killed (Loyalist claim)",Libyan  Coastal  Highway  Q1376543,2011.0,False
+728,728,32941802,2011 India–Pakistan border skirmish,military conflict,8821,16969,7,33,5 killed |caus2| 3 killed,Line  of  Control  Q1366583,2011.0,False
+729,729,33036769,2011 attack on the Israeli Embassy in Egypt,civil conflict,21467,16882,32,64,,Israeli  embassy  at  Giza|Egypt,2011.0,False
+730,730,33064578,Raid on Ra's Lanuf,military conflict,4897,161,4,30,"15-17 fighters killed, 2 workers wounded |caus2| Unknown*",Ra s  Lanuf  Q58462,2011.0,False
+731,731,33077296,2011 Iran–Iraq cross-border raids,military conflict,24028,5001,49,108,230 families displaced (by August 3) <br>10 civilians killed <br />'''Total: 210-326+ killed''',Iraqi  Kurdistan  Q205047,2011.0,False
+732,732,33105749,2002 Hebron ambush,military conflict,35353,6208,45,83,+12,Worshippers  Way  Q17053718,2002.0,False
+733,733,33106218,Battle of Sirte (2011),military conflict,88537,133465,186,78,"800 civilians killed (NTC claim) <br>2,151 civilians killed (Loyalist claim)",Sirte  Q162413,2011.0,False
+734,734,33121168,Occupy Wall Street,civil conflict,184220,1166926,288,291,,Zuccotti  Park  Q227659,2011.0,False
+735,735,33126181,Wadi al-Haramiya sniper attack,military conflict,10142,8405,13,55,+10,Mateh  Binyamin  Regional  Council  Q2116715,2002.0,False
+736,736,33182480,Battle of Bani Walid,military conflict,43385,18327,88,52,19–22 civilians killed,Bani  Walid  Q244230,2011.0,False
+737,737,33204602,April 2006 Iran–Iraq cross-border raids,military conflict,2745,1271,3,20,24 killed (PJAK claim),Iraqi  Kurdistan  Q205047,2006.0,False
+738,738,33206565,Raid on Ghadames,military conflict,6853,269,11,31,"9–11 killed {{#tag:ref|6-8 killed on 24 September,|ref| name=""border""|ref|{{cite news |url=https://www.bbc.co.uk/news/world-africa-15051023 |title=Libya's NTC troops renew assault on pro-Gaddafi Sirte |work=[[BBC News]] |date=25 September 2011 |accessdate=4 October 2011}}|</ref>| 3 killed on 26 September,|ref| name=""continues""| total of 9-11 reported killed.}} <br>75 wounded 3 killed on 26 September, total of 9-11 reported killed. |caus2| Unknown",Ghadames  Q192237,2011.0,False
+739,739,33223959,Occupy Los Angeles,civil conflict,12107,12285,31,50,,Los  Angeles|California|United  States,2014.0,False
+740,740,33260618,Battle of Brightlingsea,civil conflict,48730,4132,104,215,,Brightlingsea|Essex,1995.0,False
+741,741,33285346,Occupy Portland,civil conflict,38449,16855,69,120,,Portland|Oregon Portland|Oregon,2011.0,False
+742,742,33286705,Occupy San José,civil conflict,8476,2671,15,50,,San  Jose|California San  Jose|California|United  States,2012.0,False
+743,743,33381607,Occupy movement,civil conflict,247780,779147,422,678,"'''Arrests:''' 7,700+ <br> '''Injuries:''' 400+ <br> '''Deaths:''' 32",Worldwide  List  of  Occupy  movement  protest  locations List  of  locations,2012.0,False
+744,744,33395549,Occupy Buffalo,civil conflict,16580,3525,23,68,,Buffalo|New  York Buffalo|New  York  state New  York,2011.0,False
+745,745,33401506,Occupy Chicago,civil conflict,16779,5937,23,64,,Chicago|Illinois|United  States,2013.0,False
+746,746,33411940,Occupy Canada,civil conflict,80515,15548,131,209,'''Arrests:''' 17 <br />'''Injuries:''' 1 <br />'''Deaths:''' 1 {{Citation needed|date|=|February 2012}},Canada,2013.0,False
+747,747,33418768,Occupy London,civil conflict,29895,51763,54,102,,London  Q84,2012.0,False
+748,748,33419468,2011 Rome demonstration,civil conflict,7109,12423,13,50,,Rome|Italy,2011.0,False
+749,749,33420276,15 October 2011 global protests,civil conflict,84721,39298,149,224,'''Arrests:''' 950+ '''Injuries:''' 135+,Worldwide,2011.0,False
+750,750,33421451,Occupy Toronto,civil conflict,18538,12664,24,100,,Cathedral  Church  of  St James  Toronto St James  Park St James  Park|Toronto|Ontario,2011.0,False
+751,751,33428604,Operation Linda Nchi,military conflict,70977,107091,129,145,"20 civilians killed (Somalia) <br>
+30 civilians killed, <br>6 policemen killed and 17 security forces injured (Kenya)",Somalia  Q1045,2012.0,False
+752,752,33429796,Tripoli clashes (mid-October 2011),military conflict,5938,5873,9,20,"1 killed, 60 wounded |caus2| 2 killed, 10–15 captured",Tripoli  Q3579,2011.0,False
+753,753,33435750,Occupy Sacramento,civil conflict,6048,2749,9,42,,Sacramento|California|United  States,2011.0,False
+754,754,33439765,Occupy Salem,civil conflict,5260,2283,8,29,,Salem|Oregon Salem|Oregon|United  States,2011.0,False
+755,755,33450237,Occupy Eugene,civil conflict,11873,6354,13,27,"20+ arrested, 1 death",Eugene|Oregon Eugene|Oregon|United  States|Washington  Jefferson  Park|as  of  Nov 4|2011,2011.0,False
+756,756,33455163,Occupy Oakland,civil conflict,97216,36924,180,205,,Oakland|California Oakland|California,2011.0,False
+757,757,33466797,Occupy D.C.,civil conflict,23880,8963,41,86,,Washington|D C|District  of  Columbia,2011.0,False
+758,758,33476062,Death of Muammar Gaddafi,military conflict,44696,2235546,89,144,,Sirte  Q162413,2011.0,False
+759,759,33490008,Occupy Melbourne,civil conflict,23600,11126,26,58,,Melbourne|Victoria  Australia Victoria|Australia,2012.0,False
+760,760,33490948,Battle of Podujevo,military conflict,3563,8395,5,20,1 killed<br/>6 wounded |caus2| 16 killed,Podujevo|Kosovo|Serbia  and  Montenegro Federal  Republic  of  Yugoslavia,1998.0,False
+761,761,33510391,Occupy San Francisco,civil conflict,13294,5910,21,57,,San  Francisco|California San  Francisco|California,2011.0,False
+762,762,33513540,Occupy San Diego,civil conflict,7853,4700,6,42,,San  Diego|California San  Diego|California,2012.0,False
+763,763,33518676,2011 Hakkâri attack,military conflict,3908,22064,6,22,"24 killed <br/>
+18 injured <br/>(Turkish claim) |caus2| 45 killed during the attack; 270 killed in following operations<br>
+(Turkish claim)",Çukurca  Q272939,2011.0,False
+764,764,33533725,Timeline of the Yemeni Revolution (3 June – 22 September 2011),civil conflict,61479,2192,106,204,,Yemen,2012.0,False
+765,765,33546990,Occupy Providence,civil conflict,8665,2989,11,43,,Providence|Rhode  Island Providence|Rhode  Island|United  States,2011.0,False
+766,766,33576302,1997 Coalisland attack,military conflict,12627,33191,22,76,2 civilians wounded by the RUC,Coalisland  Q2503992,1997.0,False
+767,767,33597710,Occupy Las Vegas,civil conflict,12663,3651,25,46,Arrests: 21,Las  Vegas  Valley Las  Vegas|Nevada|United  States,2011.0,False
+768,768,33608429,Siege of Homs,military conflict,193778,175161,389,182,"2,000 –2,200 killed <small>(June 2012–May 2014)</small><br/>5,000–6,000 captured <br/><small>(by late July 2012)</small> |caus2| 859 soldiers and policemen killed <small>(by mid-Feb. 2012)</small>",Homs  Q131301,2014.0,False
+769,769,33614793,Occupy Berlin,civil conflict,3493,4760,3,24,,Berlin|Germany,2011.0,False
+770,770,33617145,Occupy Pittsburgh,civil conflict,7322,4154,9,40,,Pittsburgh|Pennsylvania|United  States,2012.0,False
+771,771,33619471,Occupy Nashville,civil conflict,8951,3116,9,42,,Nashville|Tennessee Nashville|Tennessee,2011.0,False
+772,772,33631608,Occupy St. Louis,civil conflict,13911,2982,11,92,'''Arrests:''' 52+,St Louis  Gateway  Mall Kiener  Plaza Kiener  Plaza|Downtown  St Louis downtown St Louis|Missouri St Louis|Missouri|United  States USA,2011.0,False
+773,773,33642908,Timeline of the Yemeni Revolution (23 September – December 2011),civil conflict,36089,1989,54,115,,Yemen,2012.0,False
+774,774,33665956,Occupy Glasgow,civil conflict,4267,3153,5,21,,Glasgow|Scotland|United  Kingdom,2011.0,False
+775,775,33693442,2007 West Azerbaijan clashes,military conflict,4221,2144,4,15,'''Total: 89-101 killed''',Iraqi  Kurdistan  Q205047,2006.0,False
+776,776,33699923,2011 Oakland general strike,civil conflict,15602,7599,20,33,,Oakland|California|United  States,2011.0,False
+777,777,33725257,Ein 'Arik checkpoint attack,military conflict,5791,3044,6,17,+6,Ein  Arik  Q5349574,2002.0,False
+778,778,33740092,Occupy Windsor,civil conflict,9208,3145,14,45,,Windsor|Ontario Windsor|Ontario,2011.0,False
+779,779,33756669,Daraa Governorate clashes (2011–13),military conflict,35682,12042,76,36,"at least 470 civilians and protesters killed, several dozen wounded and 190 detained",Daraa  Governorate  Q1689560,2013.0,False
+780,780,33809161,Rif Dimashq clashes (November 2011–March 2012),military conflict,84437,27530,167,73,A few hundred protesters and civilians killed,Rif  Dimashq  Governorate  Q232399,2012.0,False
+781,781,33862455,Battle of Doan,military conflict,5242,11566,3,24,1 Australian wounded<br>1 Bushmaster destroyed |caus2| Unconfirmed number of fighters killed/or injured<br>1 local arrested on suspicion.,Doan  village|Oruzgan  Province|Afghanistan,2011.0,False
+782,782,33863424,Occupy Dame Street,civil conflict,12516,8221,21,72,,Dublin|Republic  of  Ireland Ireland,2012.0,False
+783,783,33870250,Shayrat and Tiyas airbase ambush,military conflict,3302,38051,4,23,None |caus2| 10 killed,Tiyas  Q7810501,2011.0,False
+784,784,33880146,Operation Northern Lights,military conflict,1387,3720,0,15,,Iraq  Q796,2006.0,False
+785,785,33885061,Siege of Dammaj,military conflict,25961,23640,44,100,+830 people killed in total,Dammaj  Q3012928,2014.0,False
+786,786,33906891,Occupy Edinburgh,civil conflict,3225,2599,4,23,,Edinburgh|Scotland,2011.0,False
+787,787,33911267,2011 attack on the British Embassy in Iran,civil conflict,26780,41769,44,67,,Embassy  of  the  United  Kingdom|Tehran  Q19894883,2011.0,False
+788,788,33912713,Occupy Reykjavík,civil conflict,3876,1842,6,29,,Reykjavík|Iceland,2011.0,False
+789,789,33944052,2012 Aleppo Governorate clashes,military conflict,29570,12976,55,61,at least 50 civilians killed,Aleppo  Governorate  Q214064,2012.0,False
+790,790,33979119,2011–2013 Russian protests,civil conflict,166618,19059,210,547,,,2012.0,False
+791,791,34044378,December 2011 Syrian–Turkish border clash,military conflict,4249,11322,5,13,"None |caus2| 3 killed, several wounded, 1 arrested",Syria  Q858,2011.0,False
+792,792,34045304,2006 Dutch/Australian Offensive,military conflict,10985,5565,6,38,1 Dutch soldier killed<br>7 Dutch wounded<br>6 Australians wounded |caus2| Over 300 Taliban fighters killed,Chora  and  Baluchi  areas|Oruzgan  Province|Afghanistan,2006.0,False
+793,793,34047744,Idlib Governorate clashes (September 2011 – March 2012),military conflict,66910,3644,133,83,"806 opposition fighters and defectors killed <br><small>((Opposition claim))</small>
+1,330 Killed (Government claim) |caus2| 846 soldiers killed (Opposition claim)",Idlib  Governorate  Q233218,2012.0,False
+794,794,34088654,Zhanaozen massacre,civil conflict,15179,25709,24,41,,flagicon Kazakhstan Mangystau  Region|Kazakhstan,2011.0,False
+795,795,34099365,Occupy Sydney,civil conflict,11046,6995,8,45,,Sydney|New  South  Wales|Australia,2013.0,False
+796,796,34118603,Battle of Rastan (2011),military conflict,8564,16655,17,26,"130 killed* <br>3,000 opposition supporters arrested |caus2| 13 killed <br>32 wounded",Al- Rastan  Q1867822,2011.0,False
+797,797,34135556,Battle of Khaz Oruzgan,military conflict,16808,20790,10,19,None,Khas  Urozgan  District  Q2215441,2008.0,False
+798,798,34159635,Operación Escorpión,military conflict,3416,3840,3,32,"2 killed<br/>18 wounded |caus2| 112 killed <br/> 1,093 arrested",Tamaulipas  Q80007,2011.0,False
+799,799,34166492,Operación Lince Norte,military conflict,1858,5780,1,31,1 killed<br/>21 wounded |caus2| 30 killed <br/>11 wounded,Tamaulipas  Q80007,2011.0,False
+800,800,34182942,December 2011 Nigeria clashes,military conflict,3613,2646,3,21,At least 7 killed |caus2| At least 50 killed,Maiduguri  Q221436,2011.0,False
+801,801,34261177,Timeline of the Yemeni Revolution (January – 27 February 2012),civil conflict,26367,3134,46,119,,Yemen,2012.0,False
+802,802,34285630,Occupy Cork,civil conflict,9181,2463,15,41,,Cork  city Cork,2012.0,False
+803,803,34304876,2011 Bolivian indigenous rights protests,civil conflict,27620,1683,32,102,"One hostage (''released'') |caus2| Four dead, scores wounded and at least 300 detained or missing",flag Bolivia,2011.0,False
+804,804,34323342,Occupy Redwood City,civil conflict,13514,2433,18,82,,Redwood  City|California|United  States,2011.0,False
+805,805,34383538,Attack on Spanish oiler Patiño,military conflict,10036,1565,13,44,1 replenishment ship lightly damaged |caus2| 1 killed<br/>6 captured (5 wounded)<br/>1 skiff damaged and captured,Indian  Ocean  Q1239,2012.0,False
+806,806,34386535,2012 Romanian protests,civil conflict,82707,19014,149,247,+3,62  cities  in  Romania|including  Bucharest br  Diaspora br  small flagicon Austria Vienna br  flagicon Belgium Brussels br  flagicon Canada Montreal br  flagicon Denmark Aarhus br  flagicon France Paris|Strasbourg br  flagicon Germany Berlin br  flagicon Ireland Dublin br  flagicon Italy Brescia|Padua|Rome|Trieste br  flagicon Moldova Chișinău br  flagicon Netherlands The  Hague br  flagicon Portugal Lisbon br  flagicon Spain Madrid|Zaragoza br  flagicon United  Kingdom London br  flagicon Vatican  City Vatican  City small,2012.0,False
+807,807,34398382,Vita Cortex sit-in,civil conflict,16960,17306,36,62,,Cork  city Cork|Republic  of  Ireland Ireland,2012.0,False
+808,808,34405033,Protests against SOPA and PIPA,civil conflict,91419,246171,151,370,,Online  and  in  various  locales,2012.0,False
+809,809,34421431,Battle of Zabadani (2012),military conflict,18381,20009,37,35,"22 civilians killed <small>(first phase)</small>
+100 killed <small>(second phase)</small>",Al- Zabadani  Q374768,2012.0,False
+810,810,34423161,2011 Bangladesh coup d'état attempt,military conflict,10743,9315,20,44,0 |caus2| 0,Bangladesh,2011.0,False
+811,811,34449424,Battle of Douma,military conflict,15698,37813,29,34,158+ killed |caus2| 37+ killed,Douma  Q403446,2012.0,False
+812,812,34453802,Operation Septentrion,military conflict,10634,5205,11,69,,Uzbin  Valley|Afghanistan,2009.0,False
+813,813,34468514,2012 Kong Qingdong incident,civil conflict,34709,8363,47,118,,Hong  Kong,2012.0,False
+814,814,34477025,Factional violence in Libya (2011–14),military conflict,104573,46629,212,187,,Libya  Q1016,2014.0,False
+815,815,34486672,2011–12 Strait of Hormuz dispute,military conflict,44484,36012,65,174,,Strait  of  Hormuz  Q79883,2011.0,False
+816,816,34489980,Rescue of Jessica Buchanan and Poul Hagen Thisted,military conflict,5169,144564,5,42,none |caus2| 9 killed,Somalia  Q1045,2012.0,False
+817,817,34506090,Tuareg rebellion (2012),military conflict,83738,120839,139,183,"200+ killed or missing, <br>400 captured <br>1,000 –1,600 defected<br>'''Total:''' 1,000–1,500+ killed, captured or deserted |caus2| ~165 killed (Malian sources)",Azawad  Q43937,2012.0,False
+818,818,34516509,2000 UEFA Cup Final riots,civil conflict,26461,73384,51,92,,City  Hall  Square|Copenhagen  Q2178686,2000.0,False
+819,819,34569942,Port Said Stadium riot,civil conflict,28429,101204,42,96,,Port  Said  Stadium|Port  Said|Egypt,2012.0,False
+820,820,34581359,Battle of Rastan (January–February 2012),military conflict,13725,1575,20,25,24 civilians killed,Al- Rastan  Q1867822,2012.0,False
+821,821,34599993,2012 Homs offensive,military conflict,70401,35252,146,84,"700–1,000 civilians and rebels killed overall (per H.R.W. and the opposition, see [[#Deaths|Deaths]] below for other estimates)",Homs  Q131301,2012.0,False
+822,822,34656813,Operation Whalers,military conflict,10504,168152,9,50,"1 killed |caus2| Multiple killed, Ahmad Shah gravely wounded, his cell destroyed",Kunar  Q188147,2005.0,False
+823,823,34689418,2012 Kapisa airstrike,military conflict,4232,12181,7,18,,Giawa  village|Nijrab  District|Kapisa  Province|Afghanistan,2012.0,False
+824,824,34713720,Occupy Bath,civil conflict,7887,2325,17,25,,Queen  Square  Bath Queen  Square|Bath|Somerset Bath|England,2011.0,False
+825,825,34739991,December 2011 Jabal al-Zawiya massacres,military conflict,5865,14678,8,19,120 civilians killed,Zawiya  Mountain  Q8067497,2011.0,False
+826,826,34786176,2012 Nozhay-Yurtovsky District clashes,military conflict,3712,3241,6,24,17 killed and 24 wounded (government claim) |caus2| 7 killed (government claim),Nozhay- Yurtovsky  District  Q1026761,2012.0,False
+827,827,34814074,2012 Kufra conflict,military conflict,15628,5074,26,30,"'''February fighting'''<br>113 killed,* <br>241 wounded <br>'''April fighting'''<br>12 killed, 35 wounded <br>'''June fighting'''<br>55 killed*",Kufra  Q172114,2012.0,False
+828,828,34882907,Battle of al-Qusayr (2012),military conflict,24708,18733,41,46,,Al- Qusayr  Q195410,2012.0,False
+829,829,34943710,2006 Vadodara riots,civil conflict,7606,45636,10,27,,Vadodara  district|Gujarat|India,2006.0,False
+830,830,34946127,2011 Khuzestan protests,civil conflict,10668,12788,12,57,,flagicon Iran Ahvaz|Iran,2011.0,False
+831,831,34963588,December 2011 Baneh clash,military conflict,3457,1841,5,15,"1 killed <br/>
+(Iranian claim)<br/>
+9 killed <br/>
+(PJAK claim) |caus2| 4 killed, several wounded <br/>
+(Iranian claim)<br/>
+None (PJAK claim)",Baneh|North- Western  Iran,2011.0,False
+832,832,34963936,September 2006 Sardasht incident,military conflict,1856,1928,1,11,,Sardasht,2006.0,False
+833,833,35012916,2012 Ecuadorian protests,civil conflict,8680,6640,10,39,,flag Ecuador,2012.0,False
+834,834,35018859,Summer 2011 Jabal al-Zawiya operation,military conflict,3118,11178,2,12,60+ killed |caus2| 32+ killed soldiers,Jabal  al- Zawiya|Syria,2011.0,False
+835,835,35023592,March 2012 Gaza–Israel clashes,military conflict,51671,22130,155,187,23 civilians wounded |caus2| 18 militants and 5 civilians killed; <br>74 wounded (mostly civilians),Gaza  Strip  Q39760|Southern  District  Q188781,2012.0,False
+836,836,35026616,Battle of Idlib (2012),military conflict,20401,8131,45,24,100+ killed in total,Idlib  Q504657,2012.0,False
+837,837,35032381,2012 Republic of Macedonia inter-ethnic violence,civil conflict,13039,28040,24,47,,flag Republic  of  Macedonia,2012.0,False
+838,838,35178468,2012 Malian coup d'état,military conflict,72345,49732,136,166,40 unspecified people wounded,flag Mali,2012.0,False
+839,839,35197787,Hama Governorate clashes (2011–12),military conflict,19353,7995,44,31,"1,403 opposition protesters and FSA fighters killed* |caus2| 120 killed",Hama  Governorate  Q232355,2012.0,False
+840,840,35205737,Battle of Azaz (2012),military conflict,10367,18206,10,37,125 killed |caus2| 100+ soldiers killed<br>17 tanks destroyed,Azaz  Q277674,2012.0,False
+841,841,35207792,Occupy Vanderbilt,civil conflict,6702,4804,7,33,,Nashville|Tennessee Nashville|Tennessee,2012.0,False
+842,842,35235584,Heglig Crisis,military conflict,60351,50119,112,165,29 civilians killed,Along  the  whole  Sudan- South  Sudan  border|although  the  main  fighting  took  place  at  Heglig,2012.0,False
+843,843,35240698,Occupy Buffer Zone,civil conflict,14027,11159,13,47,,United  Nations  Buffer  Zone  in  Cyprus Buffer  Zone|between  the  Ledra  Street Ledra Lokmacı Checkpoints|Nicosia|Cyprus,2012.0,False
+844,844,35249743,2012 Sabha conflict,military conflict,10435,6696,15,37,42 killed |caus2| 48 killed,Sabha  Q208389,2012.0,False
+845,845,35267475,Battle of Saraqeb,military conflict,5747,16008,9,23,100 killed overall,Saraqib  Q1895761,2012.0,False
+846,846,35314870,April 2012 Idlib Governorate Operation,military conflict,7274,12993,14,30,"100+ killed (number includes civilians) |caus2| 58 soldiers killed,<br/>at least 5 tanks destroyed or damaged",Idlib  Governorate  Q233218,2012.0,False
+847,847,35320708,Anti-austerity movement in Ireland,civil conflict,63861,5536,133,234,,Republic  of  Ireland,2015.0,False
+848,848,35324188,Battle of Taftanaz,military conflict,4494,15745,7,24,120 killed in total (opposition claim),Taftanaz  Q844598,2012.0,False
+849,849,35363462,2012 Quebec student protests,civil conflict,30123,88691,49,123,,Quebec|Canada,2012.0,False
+850,850,35476086,2012 Guinea-Bissau coup d'état,military conflict,53211,27554,67,134,,flag Guinea- Bissau,2012.0,False
+851,851,35477789,Second Battle of Heglig,military conflict,5678,3193,9,21,,Heglig  Q1320844,2012.0,False
+852,852,35528594,Rebellion of the Three Guards,military conflict,27277,18607,12,140,Unknown; the old Shang capital of Yin is destroyed {{sfnp|Hucker|1978|p|=|33}},Northeastern  China|particularly  the  North  China  Plain|sfnp Shaughnessy 1999 p 311 western  Shandong|and  northern  Jiangsu sfnp Li 2006 pp 306- 308,2006.0,False
+853,853,35575260,1997 Ramabai killings,civil conflict,8496,30630,10,28,,Ramabai  colony|Mumbai,1997.0,False
+854,854,35593058,Death of Dave Sharrett II,military conflict,13720,7649,11,87,,Iraq  Q796,2008.0,False
+855,855,35601849,Mashtots Park Movement,civil conflict,14878,11676,16,47,,Mashtots  Avenue|Yerevan|Armenia,2012.0,False
+856,856,35626430,Bersih 3.0 rally,civil conflict,52203,42948,102,174,"60 local demonstrators  injured, 512 arrested |caus2| 20 policemen injured",Kuala  Lumpur|Malaysia,2012.0,False
+857,857,35666325,Occupy the Farm,civil conflict,26492,8325,51,60,,Gill  Tract|Albany|California,2013.0,False
+858,858,35738929,Ravansar and Sanandaj police station attacks,military conflict,3224,1370,3,18,'''Total: 20-26+ killed''',Kurdistan  Province  Q134386,2009.0,False
+859,859,35747417,KDPI insurgency (1989–96),military conflict,15287,23448,12,31,'''Total 168–503 killed''',Iranian  Kurdistan,1996.0,False
+860,860,35819541,Battle of Rastan (May 2012),military conflict,6324,1314,10,31,"9 killed, including a rebel commander |caus2| 23 soldiers killed, <br> 15 captured",Al- Rastan  Q1867822,2012.0,False
+861,861,35862157,M23 rebellion,military conflict,61759,161398,101,125,"Civilian casualties: 283+ killed <br/>140,000 displaced.",North  Kivu  Q130625,2013.0,False
+862,862,35895060,Syrian Civil War spillover in Lebanon,military conflict,54649,324615,124,208,'''In clashes with Lebanese Army:'''<Br>500+ killed<Br>700+ captured<br> <small>(Lebanese Army claim)</small> <br>'''In clashes with Hezbollah:'''<br>Unknown,Sidon  Q163490|Beirut  Q3820|Arsal  Q4796334|Akkar  District  Q419697|Lebanon  Q822|Tripoli  Q168954,2017.0,False
+863,863,35902880,Battle of Dofas,military conflict,9290,6971,15,26,"32 killed <small>(initial battle)</small> <br>42 killed <small>(subsequent air-strikes)</small> |caus2| 187 killed, 135 wounded, 55-73 captured",Dofas|Abyan  Governorate|Yemen,2012.0,False
+864,864,35903066,2012 Abyan offensive,military conflict,20151,9876,35,51,34 civilians killed,Zinjibar  Q204391,2012.0,False
+865,865,35912750,First Battle of Heglig,military conflict,2315,3113,1,14,3 |caus2| ''unknown'',Heglig  Q1320844,2012.0,False
+866,866,35913015,Sudan Air Campaign,military conflict,8769,1880,17,29,''unknown'' |caus2| 17 killed <br /> 32 wounded,South  Sudan,2012.0,False
+867,867,35981512,Timeline of the Bahraini uprising of 2011,civil conflict,71989,10672,103,246,,flag Bahrain,2011.0,False
+868,868,35989398,Yo Soy 132,civil conflict,19825,65469,31,66,,Mexico,2013.0,False
+869,869,36045579,2012 Armenian–Azerbaijani border clashes,military conflict,12155,11653,17,30,"{{flagicon|Armenia}} 3 soldiers killed, 6 wounded<br> {{flagicon|Nagorno-Karabakh}} 1 soldier killed, 2 wounded |caus2| {{flagicon|Azerbaijan}} 5 soldiers killed<br>Several wounded",Armenian Azeri  border  and  line  of  contact|Nagorno- Karabakh|Azerbaijan,2012.0,False
+870,870,36059054,Battle of al-Haffah,military conflict,9364,16544,16,21,29 civilians killed,Al- Haffah  Q2371098,2012.0,False
+871,871,36113635,2011–12 Maldives political crisis,civil conflict,39125,31670,70,66,,flagicon MDV Maldives,2012.0,False
+872,872,36142743,Asturian miners' strike of 2012,civil conflict,19785,7690,23,114,,Asturias|Spain,2012.0,False
+873,873,36157868,Scarborough Shoal standoff,military conflict,29562,152236,48,101,,Scarborough  Shoal  br coord 15 11 N 117 46 E dim 100000 display inline|title,2012.0,False
+874,874,36173142,2012 Tripoli airport clashes,military conflict,4228,2221,3,17,17+ militiamen arrested<br>4 militiamen wounded<br>1 tank destroyed<br>1 tank captured |caus2| 60 wounded,Tripoli  International  Airport  Q44588,2012.0,False
+875,875,36200167,June-August 2012 Hakkari clashes,military conflict,11660,4898,8,36,"(Dağlıca attack) 10 killed, 10 wounded<br>
+(Şemdinli events)5 killed 27 wounded, 1 helicopter down<br>
+(Çukurca attack) 8 killed |caus2| (Dağlıca attack) 26 to 32  killed  (Turkish sources) 15 killed (PKK claim)
+(Şemdinli events) 6 to 120 killed (Turkish sources)
+(Çukurca attack) 3 to 14 killed",Hakkâri  Province  Q93209,2012.0,False
+876,876,36267146,Battle of Gao,military conflict,20382,19445,34,72,"35 killed overall, including 3 Niger fighters, and 41 wounded",Gao  Q188904,2012.0,False
+877,877,36413545,Battle of Tremseh,military conflict,32598,16744,58,46,"39 killed overall (government claim) <br>150 claimed killed overall, 68–103 confirmed (opposition claim)",Hama  Q173545,2012.0,False
+878,878,36464677,Battle of Damascus (2012),military conflict,62650,119075,142,66,140+ civilians killed,Damascus  Q3766,2012.0,False
+879,879,36494808,Battle of Aleppo (2012–2016),military conflict,189389,298597,383,451,,Aleppo  Q41183,2016.0,False
+880,880,36542184,2012 Gorno-Badakhshan clashes,military conflict,7885,9538,11,30,Disputed number of civilians casualties,Gorno- Badakhshan  Autonomous  Province  Q207319,2012.0,False
+881,881,36590197,Battle of Anadan,military conflict,8228,23965,10,37,"4 killed |caus2| 6 killed, <br>25 captured, <br>1–2 [[main battle tank]]s destroyed and<br>8 captured {{sfnp|Bolling|2012|p|=|9}} <br/>5 [[Armoured personnel carrier|APC]]s captured {{sfnp|Bolling|2012|p|=|9}}",Anadan  Q4750735,2012.0,False
+882,882,36591856,Moral and National Education controversy,civil conflict,13887,7065,22,66,,Admiralty|Hong  Kong Admiralty,2012.0,False
+883,883,36682143,2012 Zintan clashes,military conflict,3090,1651,4,13,,Zintan  Q61102,2012.0,False
+884,884,36822554,Rif Dimashq offensive (August–October 2012),military conflict,40303,24701,79,95,930 civilians killed (opposition claims),Rif  Dimashq  Governorate  Q232399,2012.0,False
+885,885,36856978,Northern Mali conflict,military conflict,159086,514240,330,379,{{flagicon image|Flag of Jihad.svg}} 115 killed<br><small>(Conflict with Tuaregs)</small> ---- {{flagicon image|Flag of Jihad.svg}} 625 killed<br><small>(French intervention)</small>,Mali  Q912,2015.0,False
+886,886,36884753,Lopota incident,military conflict,55896,14429,84,143,"3 killed, 5 wounded |caus2| Officially 11 killed, ""several"" wounded",Lopota  Q12866388,2012.0,False
+887,887,36895265,List of drone strikes in Pakistan,military conflict,208956,52935,476,404,"2,515-4,026 total killed<br/>424-969 civilians killed",Pakistan  Q843,2004.0,False
+888,888,36911203,2012 North Belfast riots,civil conflict,18394,8596,26,52,,Belfast North  Belfast|Belfast  West  UK  Parliament  constituency West  Belfast,2012.0,False
+889,889,36920007,Withdrawal of U.S. troops from Afghanistan,military conflict,147390,281944,198,141,,Afghanistan  Q889,2016.0,False
+890,890,36962249,2008 Indo-Pakistani standoff,military conflict,30271,36772,52,146,,India Pakistan  border  Q2635466,2008.0,False
+891,891,36963633,2012 Catalan independence demonstration,civil conflict,44643,27907,72,166,,Barcelona  Q1492,2012.0,False
+892,892,37004588,Occupy Central (2011–12),civil conflict,10578,14366,10,37,,Central|Hong  Kong Central|Hong  Kong,2012.0,False
+893,893,37032089,Sinai insurgency,military conflict,95111,474255,178,190,"'''Civilian casualties:''' 500+ Egyptian, 219 Russians, 4 Ukrainians, 1 Belarusian, 6 Israeli, 4 South Korean, 1 Croatian<br> '''Yamam: '''2 killed <br> '''IDF:''' 1 killed <br>'''Total: 2,371–4,735+ killed'''",Sinai  Peninsula  Q36755,2011.0,False
+894,894,37032207,Operation Sinai (2012),military conflict,27801,11763,44,66,"2 civilians killed, 6 wounded. <br/>'''Total: 55 killed'''",Sinai  Peninsula  Q36755,2012.0,False
+895,895,37070832,Battle of Sangin (2010),military conflict,9046,57782,3,49,,Sangin  District  Q249296,2014.0,False
+896,896,37138589,Operation Dawn (2012),military conflict,1928,4126,1,11,6 killed plus 2 village guards killed |caus2| 140 killed and one captured,Şemdinli  Q388797,2012.0,False
+897,897,37153122,Battle of Kismayo (2012),military conflict,13088,23541,16,51,1 killed; 3 wounded civilians,Kismayo  Q270787,2012.0,False
+898,898,37208792,First Battle of Lawdar,military conflict,2979,4286,6,19,"3 civilians killed, 33-35 people killed in total",Lawdar  Q985181,2010.0,False
+899,899,37213634,Syrian–Turkish border clashes during the Syrian Civil War,military conflict,34918,20245,60,104,12 soldiers killed <br />''(Turkish claim)'' <br />14 soldiers killed<br /> 23 soldiers wounded<br />''(Syrian opposition claim)'' |caus2| 5 civilians killed,Syria  Q858,2014.0,False
+900,900,37293017,Battle of Maarrat al-Nu'man (2012),military conflict,14315,2463,26,22,60 civilians killed,Maarrat  al- Nu man  Q728226,2012.0,False
+901,901,37315707,Siege of Daraa,military conflict,25937,68249,45,57,"50 –220 protesters killed and 600 –1,000 arrested, 81 defected soldiers killed |caus2| 25 killed, 177 wounded",Daraa  Q238217,2011.0,False
+902,902,37322919,February 1999 Kurdish protests,civil conflict,15906,9130,15,133,"1 dead and 1 injured (Turkey) <br/>
+1,000 arrested (Turkey) <br>
+3 arrested (Canada) <br>
+1 injured (Denmark) <br>
+20+ arrested (France) <br>
+3 killed (Germany) <br>
+17 injured (Germany) <br>
+57 arrested (Germany) <br>
+350 detained (Greece) <br>
+49 detained (Russia) <br>
+1 injured (UK) <br>
+3 killed (Iran) '''Total:''' 7 dead, 20+ injured, ~1,500 detained/arrested |caus2| 5 diplomats taken hostage (Austria)<br/>
+9 police injured (Canada) <br/>
+1 politician taken hostage (Germany) <br/>
+1 diplomat taken hostage (Italy) 1 diplomat, 1 policeman taken hostage (Switzerland)",flag Turkey Ankara|Diyarbakır|Istanbul br flag Armenia Yerevan br flag Australia Sydney br flag Austria Vienna br flag Belgium Brussels br flag Canada Montreal|Ottawa|Vancouver br flag Denmark Copenhagen br flag France Paris|Marseille|Strasbourg br flag Germany Berlin|Bonn|Düsseldorf|Hamburg|Stuttgart br flag Greece Athens br flag Iran Sanandaj|Kermanshah|Mahabad|Urmia|Tehran br flag Italy Milan br flag Netherlands The  Hague br flag Russia Moscow br flag Sweden Stockholm br flag Switzerland Bern|Geneva|Zurich br flag United  Kingdom London br flag United  States New  York  City|Washington|D C,1999.0,False
+903,903,37398823,English Channel scallop fishing dispute,civil conflict,6050,3907,9,25,,convert 24 km mi off  the  coast  of  Le  Havre|France,2018.0,False
+904,904,37410869,December 2009 Kurdish protests in Turkey,civil conflict,17404,10939,21,113,"3 killed <br>
+8 injured <br>
+32 arrested |caus2| 5 police injured",flag Turkey br flag Iraqi  Kurdistan,2009.0,False
+905,905,37574369,Rif Dimashq offensive (November 2012–February 2013),military conflict,44691,24967,86,82,"1,000+ civilians killed",Damascus  Q3766,2013.0,False
+906,906,37622567,Quneitra Governorate clashes (2012–14),military conflict,51391,20818,89,85,* {{flagicon|Syria}} At least 2+ Syrian civilians killed in Syrian gov-t bombings 8 Syrian civilians killed by Israeli Army bombardment. * {{flagicon|Israel}} 8 Israeli soldiers injured <br>1 Israeli civilian killed and three injured *2 unidentified militants killed by Israeli military,Quneitra  Governorate  Q219690|Golan  Heights  Q83210,2014.0,False
+907,907,37641752,Operation Pillar of Defense,military conflict,162069,217381,334,373,"'''Palestinian civilian losses:'''<br />105 killed , 971 wounded (Palestinian claim) <br />57 killed (Israeli claim) <br />103 killed (UN preliminary estimate) <br />68 killed ([[Intelligence and Terrorism Information Center|ITIC]] claim) <br />87 killed ([[B'Tselem]] claim) <br />8 Palestinians [[Capital punishment in the Gaza Strip|executed by the al-Qassam Brigades]] '''Israeli civilian losses:'''<br />4 killed, 219 injured",Gaza  Strip  Q39760|Israel  Q801,2012.0,False
+908,908,37710611,Siege of Base 46,military conflict,12547,21515,12,44,"Unknown |caus2| nearly 300 killed, 60 captured <small>(rebel claim)</small>",Urum  al- Sughra  Q7901526,2012.0,False
+909,909,37750204,2012–13 Maribor protests,civil conflict,55179,7985,82,241,,Maribor|Slovenia,2013.0,False
+910,910,37791586,Timeline of the Egyptian Crisis under Mohamed Morsi,civil conflict,61362,8706,128,85,34 killed,flag Egypt,2012.0,False
+911,911,37857818,Battle of Ras al-Ayn,military conflict,40532,40815,63,76,122-148 killed,Ras  al- Ayn  Q1023330,2013.0,False
+912,912,37969765,2012 Hama offensive,military conflict,11998,21267,24,41,90–200 civilians killed,Hama  Governorate  Q232355,2012.0,False
+913,913,37985990,Battle of Yarmouk Camp (December 2012),military conflict,15659,10271,32,57,23 civilians killed,Yarmouk  Camp  Q2918779,2012.0,False
+914,914,37991543,Kachin conflict,military conflict,36477,85535,65,148,"100,000+ civilians displaced (since 2011)",Kachin  State  Q140646|Shan  State  Q456847,2011.0,False
+915,915,38024441,Central African Republic Civil War (2012–2014),military conflict,120758,64711,233,276,53,Central  African  Republic  Q929,2013.0,False
+916,916,38089343,Battle of Vrbanja Bridge,military conflict,12409,39069,12,91,"4 killed, 3 wounded<br/>and 4 captured (later released) |caus2| 3 killed, 10 wounded<br/>and 10 taken hostage (later released)",Suada  and  Olga  bridge  Q1266711,1995.0,False
+917,917,38091864,Second Battle of Menaka,military conflict,11107,531,15,25,13 killed<br>40 wounded<br>15 captured<br>1 technical destroyed |caus2| 23 killed<br>26 wounded<br>6 technicals destroyed,Ménaka  Q855986,2012.0,False
+918,918,38128107,Battle of Aguelhok,military conflict,12609,6668,23,35,128–160 soldiers killed <br>82–97 executed |caus2| dozens killed<br>40 vehicles destroyed <small>(Malian Army claim)</small>,Aguelhok  Q357768,2012.0,False
+919,919,38139843,Battle of Tessalit,military conflict,11662,5513,13,45,32-49 killed<br>20+ wounded<br>62-71 captured<br>21 vehicles destroyed<br>6 vehicles captured<br>2 [[BRDM-2]] captured<br>1 [[BRDM-2]] destroyed |caus2| 7-17 fighters killed<br>6-8 wounded<br>7 captured<br>1 vehicle destroyed,Tessalit  Q1025926,2012.0,False
+920,920,38149325,Belfast City Hall flag protests,civil conflict,54790,48560,98,189,157 police officers injured |caus2| 560 charged,Northern  Ireland,2013.0,False
+921,921,38183669,Battle of Ifoghas,military conflict,87334,9274,204,44,{{flagicon|France}} <br>3 killed<br>120 wounded<br> {{flagdeco|Chad}} <br>30 killed<br>unknown number wounded |caus2| 200–300 killed<br>50 captured,Tessalit  Q1025926,2013.0,False
+922,922,38195799,"People's Uprising rally, 2013",civil conflict,14721,6153,22,48,,Kuala  Lumpur|Malaysia,2013.0,False
+923,923,38205389,Operation Serval,"military conflict, military conflict",71830,280842,128,327,,Mali  Q912,2014.0,False
+924,924,38208500,Bulo Marer hostage rescue attempt,military conflict,11514,64821,17,53,8 civilians killed,Bulo  Marer  Q3007041,2013.0,False
+925,925,38208970,2013 Baku protests,civil conflict,2431,7324,3,15,,Baku|Azerbaijan,2013.0,False
+926,926,38209630,Battle of Konna,military conflict,38093,16660,100,49,15 civilians dead<br>'''Total:''' 149 killed overall,Konna  Q1764720,2013.0,False
+927,927,38238175,2013 India–Pakistan border skirmishes,military conflict,47083,75497,87,119,9 soldiers and 1 civilian killed |caus2| 9 soldiers and 4–14 civilians killed,Line  of  Control  Q1366583,2013.0,False
+928,928,38238383,Long March (Pakistan),civil conflict,18477,14797,16,75,,Lahore to  Islamabad|Pakistan,2013.0,False
+929,929,38338900,Battle of Darayya (November 2012–February 2013),military conflict,14876,10788,27,37,"1,000+ combatants and civilians killed",Darayya  Q1033066,2013.0,False
+930,930,38345827,Second Battle of Gao,military conflict,12567,3861,26,20,2 wounded |caus2| 25 killed,Gao  Q188904,2013.0,False
+931,931,38348699,Battle of Tinzaouaten,military conflict,3944,2981,10,16,1 killed<br>10 captured<br>37 defected |caus2| 1 killed,Tinzaouaten  Q2312553|Ségou  Q333476,2012.0,False
+932,932,38393113,Battle of Tezirzait,military conflict,817,544,0,11,"26 killed,<br>4 vehicles<br>1 MiG helicopter |caus2| 7 killed",Tezirzaït  Q7708624,2008.0,False
+933,933,38396489,1999 Shia uprising in Iraq,military conflict,14444,41920,20,49,200+ dead,Iraq  Q796,1999.0,False
+934,934,38415011,Battle of Harem,military conflict,8316,15486,11,26,"78 killed, 230+ captured |caus2| 43 killed",Harem  Q771907,2012.0,False
+935,935,38461094,2013 Shahbag protests,civil conflict,76450,62052,155,174,,Bangladesh began  at  Shahbagh  Square|Dhaka,2013.0,False
+936,936,38554050,2013 Lahad Datu standoff,military conflict,126942,326317,193,346,"{{plainlist |
+* '''Civilian casualties'''
+* 6 killed
+* 1 wounded
+* 6 escaped|ref| name=""escaped"" group = ""note""|Escaped from the intruders when they tried to take civilian as a hostage.|</ref>|
+* 564 arrested|ref| name=""illegals"" group = ""note""|Majority arrested were [[Illegal immigrants in Malaysia|illegal immigrants]] who gave help to the intruders.|</ref>|}} * 564 arrested",Tanduo|Lahad  Datu  District Lahad  Datu|Semporna  District Semporna|Kunak  District Kunak and  Tawau  District Tawau in  eastern  Sabah,2013.0,False
+937,937,38594310,2013 Bulgarian protests against the first Borisov cabinet,civil conflict,95435,11177,166,202,,Bulgaria  main br Austria|France|Germany|Greece|United  Kingdom|Spain Bulgarian  diaspora,2013.0,False
+938,938,38601514,Battle of Safira,military conflict,7198,25374,11,16,200+ killed |caus2| 7+ killed,Al- Safira  Q575774,2013.0,False
+939,939,38638582,2012–13 Iraqi protests,civil conflict,41184,29916,64,176,,Iraq,2013.0,False
+940,940,38640127,Crumlin-Drimnagh feud,civil conflict,14446,50252,23,34,,South  inner  city  Dublin|Ireland,2000.0,False
+941,941,38661589,Battle of Tamassi,military conflict,3546,2516,0,12,10 killed<br>24 injured |caus2| 33–208 killed<br>~70 injured<br>62 captured,Tamassi|Chad,2010.0,False
+942,942,38669966,Damascus offensive (2013),military conflict,16410,49545,30,54,735+ fighters killed |caus2| 440+ soldiers killed,Damascus  Q3766,2013.0,False
+943,943,38680726,Battle of Biltine,military conflict,3132,260,4,19,50 killed |caus2| ~100 killed,Biltine  Q1809024,2006.0,False
+944,944,38688394,Operation Panther (2013),military conflict,13293,5379,13,30,,Adrar  des  Ifoghas  Q366665,2013.0,False
+945,945,38699467,Battle of Iminenas,military conflict,8109,3553,16,24,2 inured |caus2| 52 killed,Gao  Q188904,2013.0,False
+946,946,38699565,Battle of Khalil,military conflict,6812,4815,16,23,unknown,ill In  Khalil fr|Mali,2013.0,False
+947,947,38705200,Third Battle of Gao,military conflict,5536,3280,10,35,4 wounded |caus2| 18 killed<br>20 captured,Gao  Q188904,2013.0,False
+948,948,38705507,Fourth Battle of Gao,military conflict,6208,3626,4,22,,Gao  Q188904,2013.0,False
+949,949,38712172,Battle of Raqqa (March 2013),military conflict,20969,30302,35,66,More than 100 civilians killed from 4–5 March ([[Syrian Observatory for Human Rights]] estimate) <br>39 killed in air raids on 6 March.,Raqqa  Q283368,2013.0,False
+950,950,38733656,Battle of Tin Keraten,military conflict,3805,3650,6,19,"{{Flagicon|France}} 1KIA {{Flagicon|Mali}} 1KIA, 4 wounded |caus2| 10 KIA",Tin  Keraten|Gao  Region|Mali,2013.0,False
+951,951,38738657,Akashat ambush,military conflict,7617,30691,13,27,,near  Akashat|Al  Anbar  Governorate Anbar  Province|Iraq,2013.0,False
+952,952,38797068,2013 Armenian protests,civil conflict,82237,11344,181,276,,Armenia Yerevan|Gyumri|Vanadzor|and  almost  every  major  cities  and  towns  br  Armenian  diaspora Los  Angeles|New  York  City|Paris|Brussels,2013.0,False
+953,953,38855482,2013 Anti–Sri Lanka protests,civil conflict,12737,7307,22,60,"{{unbulleted list
+ | '''Arrests:''' 500+|ref|{{cite web|url=http://www.ndtv.com/article/india/hundreds-of-students-arrested-in-chennai-for-anti-lanka-protests-343783 |title=Hundreds of students arrested in Chennai for anti-Lanka protests |publisher=NDTV.com |date=2013-03-18 |accessdate=2013-03-26}}|</ref>|
+ | '''Injuries:''' 
+ | '''Deaths:''' 2|ref|{{cite web|url=http://indiatoday.intoday.in/story/sri-lanka-issue-protests-in-tamil-nadu-claim-another-life/1/259053.html |title=Sri Lanka issue: Protests in Tamil Nadu claim another life : South, News - India Today |publisher=Indiatoday.intoday.in |date=2013-03-22 |accessdate=2013-03-26}}|</ref>|}}",Mainly  in  Tamil  Nadu|Worldwide,2013.0,False
+954,954,38919148,Battle of Timbuktu,military conflict,5144,6938,12,12,"{{Flagicon|Mali}} 1 killed, 8 wounded |caus2| 5-11 killed",Timbuktu  Q9427,2013.0,False
+955,955,38919286,Fifth Battle of Gao,military conflict,3677,3795,11,13,4 civilians killed,Gao  Q188904,2013.0,False
+956,956,38948186,Battle of Tigharghar,military conflict,1540,4220,3,11,1 soldier killed<br>1 injured |caus2| 6 killed<br>5 captured,Adrar  des  Ifoghas  Q366665,2013.0,False
+957,957,38958762,2013 Daraa offensive,military conflict,12963,18257,26,30,40 killed |caus2| 10 killed,Daraa  Governorate  Q1689560,2013.0,False
+958,958,39032331,Battle of In Arab,military conflict,3173,6225,2,24,7-9 killed<br>8 injured |caus2| 17 killed<br>1 captured<br>4 vehicles destroyed,between  Anefif and  Bourem|Mali,2013.0,False
+959,959,39069457,Battle of Djebok,military conflict,3871,4075,6,12,none |caus2| 15-40 killed<br>8 pick-up trucks destroyed<br>1 motorcycle destroyed,Djebock  Q5285264,2013.0,False
+960,960,39119926,Siege of Wadi Deif (2012–13),military conflict,35142,930,68,31,44 civilians killed,Maarrat  al- Nu man  Q728226,2013.0,False
+961,961,39153361,Battle of Deynile,military conflict,3480,3322,3,14,,Deynile  Neighborhood  of  Mogadishu|Somalia,2011.0,False
+962,962,39177240,Al-Qusayr offensive,military conflict,56136,35362,127,62,740–809 killed |caus2| 330 killed (140 Hezbollah) <br>12 tanks destroyed,Al- Qusayr  Q195410,2013.0,False
+963,963,39178135,Battle of Jdaidet al-Fadl,military conflict,8880,15634,10,22,100–300 civilians killed,Rif  Dimashq  Governorate  Q232399,2013.0,False
+964,964,39191530,Battle of Niafunké,military conflict,2166,956,2,10,2 civilians killed,Niafunké  Q3100146,2012.0,False
+965,965,39240723,Idlib Governorate clashes (June 2012–April 2013),military conflict,54598,14052,117,86,"9,000 overall killed",Idlib  Governorate  Q233218,2013.0,False
+966,966,39249586,2013 Eritrean Army mutiny,military conflict,9109,11103,12,58,,Asmara  Q3642,2013.0,False
+967,967,39271670,2013 Daulat Beg Oldi incident,military conflict,11539,14120,14,40,None |caus2| None,Raki  Nala|China- India  LAC|Ladakh Aksai  Chin,2013.0,False
+968,968,39303060,Battle of Hamakouladji,military conflict,2832,3203,4,12,"2 dead, 4-8 wounded |caus2| 5 dead",near  Gao|Mali,2013.0,False
+969,969,39317288,Iran–Israel proxy conflict,military conflict,105655,248228,213,285,,Middle  East  Q7204,2005.0,False
+970,970,39342507,Malaysia's Post General Election rally 2013,civil conflict,5380,6856,5,47,0 |caus2| 0,Every  state  in  Malaysia and  federal  territory  of  Kuala  Lumpur except  Sabah and  Sarawak,2013.0,False
+971,971,39353154,Lebanon–Syria border clashes,military conflict,21061,4248,43,64,,Lebanon Syria  border  Q3089110,2017.0,False
+972,972,39365323,2013 Shapla Square protests,civil conflict,35182,8041,54,162,,Dhaka,2013.0,False
+973,973,39402185,Siege of Menagh Air Base,military conflict,22275,70828,42,107,300 killed |caus2| 94–100 killed,Menagh  Air  Base  Q6816404,2013.0,False
+974,974,39415364,2013 Israeli protests,civil conflict,4431,1837,5,11,,Israel,2013.0,False
+975,975,39420309,2013 Hama offensive,military conflict,12301,17370,27,27,,Hama  Governorate  Q232355,2013.0,False
+976,976,39456236,Battle of al-Qusayr (2013),military conflict,71866,46342,158,58,47 civilians killed and 500 wounded,Al- Qusayr  Q195410,2013.0,False
+977,977,39457528,"Rise up, Ukraine!",civil conflict,11579,12595,15,65,5+,Kiev|Ukraine,2013.0,False
+978,978,39461535,May 2013 Stockholm riots,civil conflict,22496,2870,38,107,7+ police officers injured,Husby|Stockholm Husby|Stockholm|Sweden,2013.0,False
+979,979,39508041,Operation al-Shabah,military conflict,25255,24152,45,55,3 Syrian civilians killed<br />6 Iraqi civilians killed<br />4 Iraqi civilians kidnapped <br> 6 Iraqi civilians injured,Al  Anbar  Governorate  Q187334,2013.0,False
+980,980,39540142,Gezi Park protests,civil conflict,200699,271337,435,743,+11,90  locations  in  Turkey  including  Istanbul|Ankara|İzmir|Hatay  Province Hatay|Balıkesir|Bursa|Kahramanmaraş|Adana|Mersin|Kayseri|Konya|Eskişehir|Antalya|Isparta|Denizli|Muğla|Trabzon|Edirne|Erzurum|Malatya|Samsun br  Dozens  of  cities  List  of  solidarity  rallies  with  the  2013  protests  in  Turkey within  the  Turkish  Diaspora,2013.0,False
+981,981,39542481,Terrorist incidents in Pakistan in 2015,military conflict,36059,58582,126,36,"'''77 Soldiers killed'''
+* <small>12 killed in Jan</small> * <small>4 killed in Feb</small> * <small>2 killed in Mar</small> * <small>7 killed in June</small> * <small>4 killed in July</small> * <small>6 killed in Aug</small> * <small>32 killed in Sep</small> ----
+'''32 Cops killed'''
+* <small>7 killed in Jan</small> * <small>4 killed in Feb</small> * <small>1 killed in Mar </small> *<small>1 killed in Apr </small> * <small>5 killed in May</small> * <small>9 killed in Jun</small> * <small>1 killed in July</small> * <small>4 killed in Aug</small> ----
+'''287 Civilians killed''' 
+* <small>63 killed in Jan</small> * <small>33 killed in Feb</small> * <small>21 killed in Mar </small> * <small>25 killed in Apr</small> * <small>74 killed in May</small> * <small>13 killed in Jun</small> * <small>11 killed in July</small> * <small>24 killed in Aug</small> * <small>23 killed in Sep</small> |caus2| '''979 killed'''
+* <small>132 killed in Jan</small> * <small>50 killed Feb</small> * <small>80 killed in Mar</small> * <small>148 killed in Apr</small> * <small>113 killed in May </small> * <small>148 killed in Jun</small> * <small>64 killed in July</small> * <small>201 killed in Aug</small> * <small>59 killed in  Sep</small>",Pakistan  Q843,2015.0,False
+982,982,39543021,2013–14 Bulgarian protests against the Oresharski cabinet,civil conflict,256709,24027,378,418,,Bulgaria|primarily  Sofia,2014.0,False
+983,983,39675267,2013 protests in Brazil,civil conflict,53280,56711,96,205,,Over  100  Brazilian  cities  and  cities  with  Brazilian  diasporas  around  the  globe,2013.0,False
+984,984,39688531,Bougainville Civil War,military conflict,33132,153783,10,79,"Approx. 15,000 to 20,000 Bougainvilleans dead",Bougainville  Q18826,1998.0,False
+985,985,39689467,2013 Benghazi conflict,military conflict,9400,10098,12,24,Property damage,Benghazi  Q40816,2013.0,False
+986,986,39696496,2010 Rinkeby riots,civil conflict,7632,16950,13,40,,Rinkeby|Stockholm|Sweden,2010.0,False
+987,987,39750126,Civil uprising phase of the Syrian Civil War,civil conflict,36058,218424,66,84,,Syria  Q858,2011.0,False
+988,988,39764902,2013 Sidon clash,military conflict,12430,9657,21,28,2 civilians killed<br>50 people killed overall,Sidon  Q163490,2013.0,False
+989,989,39831254,Catalan Way,civil conflict,33305,30928,48,356,,Catalonia,2013.0,False
+990,990,39849896,Rape of Iryna Krashkova,civil conflict,10137,8930,19,61,,Vradiyivka|Ukraine,2013.0,False
+991,991,39883899,Post-coup unrest in Egypt (2013–2014),civil conflict,100333,37734,210,243,"'''Total:''' Killed ≈3,143 in various acts of political violence.",flag Egypt,2014.0,False
+992,992,39885899,Chechen–Russian conflict,military conflict,21537,563926,14,112,,North  Caucasus  Q37736,2017.0,False
+993,993,39900327,2013 Republican Guard headquarters clashes,military conflict,11504,9916,19,54,51 protesters killed |caus2| 3 military and security personnel killed,Republican  Guard  Egypt Republican  Guard  Headquarters br Heliopolis  Cairo  suburb Heliopolis|Cairo|Egypt,2013.0,False
+994,994,40002880,Jordanian–Syrian border incidents during the Syrian Civil War,military conflict,15145,24064,28,41,"~100 killed, hundreds arrested",Jordan Syria  border  Q542085,2017.0,False
+995,995,40010186,Syrian Kurdish–Islamist conflict (2013–present),military conflict,65453,253031,143,186,Unknown,Northern  Syria,2013.0,False
+996,996,40034474,2013 Trappes riots,civil conflict,5206,11537,11,31,,Trappes|Île- de- France|France,2013.0,False
+997,997,40035227,2013 Colombian clashes,military conflict,8845,6933,9,23,19 killed<br>3 wounded |caus2| 6 killed<br>12 captured,El  Doncello|El  Mordisco|Colombia,2013.0,False
+998,998,40150398,First Sahrawi Intifada,civil conflict,9737,7863,1,46,"Hundreds arrested, some wounded",Western  Sahara|south  of  Morocco,2000.0,False
+999,999,40162660,2013 Latakia offensive,military conflict,27073,35162,43,66,190–205 civilians killed,Latakia  Governorate  Q233236,2013.0,False
+1000,1000,40201407,Bahrain Tamarod,civil conflict,73874,6973,99,234,,Bahrain,2013.0,False
+1001,1001,40203594,Kishtwar clashes,civil conflict,11595,6540,22,21,2 killed |caus2| 1 killed,Kishtwar,2013.0,False
+1002,1002,40358890,Million People March,civil conflict,19029,35530,26,110,,Rizal  Park  Q2306339,2013.0,False
+1003,1003,40475853,2013 Muzaffarnagar riots,civil conflict,48664,310720,81,129,,Muzaffarnagar  district Muzaffarnagar|Uttar  Pradesh|India,2013.0,False
+1004,1004,40477827,August 2013 Sardasht clash,military conflict,2773,3740,2,16,'''Total: 9 killed''',Sardasht  Q862516,2013.0,False
+1005,1005,40484303,Zamboanga City crisis,military conflict,52131,160344,82,191,"{{plainlist|
+* '''Civilians killed:''' 12|ref| name=""dawnraid""|
+* '''Civilians wounded:''' 70|ref| name=""dawnraid""|}} * '''Civilians wounded:''' 70",Zamboanga  City  Q1629,2013.0,False
+1006,1006,40496099,2013 Romanian protests against the Roșia Montană Project,civil conflict,69406,19995,114,208,"{{unbulleted list
+| '''Arrests:''' 118|ref|{{cite news |title=""INDIGNAȚI-VĂ!"" Peste 20.000 de persoane au protestat în București împotriva proiectului de la Roșia Montană, dar și împotriva clasei politice. Un bărbat a fost arestat |author1=Alexandra Pele |author2=Corina Vârlan |url=http://www.gandul.info/stiri/indignati-va-peste-20-000-de-persoane-au-protestat-in-bucuresti-impotriva-proiectului-de-la-rosia-montana-dar-si-impotriva-clasei-politice-un-barbat-a-fost-arestat-11373705 |newspaper=Gândul |date=22 September 2013 |accessdate=30 September 2013}}|</ref>|ref|{{cite news |title=62 de persoane au fost amendate la protestul față de proiectul minier ""Roșia Montană"" de duminică după ce au blocat circulația |url=http://adevarul.ro/news/eveniment/protest-rosia-montana-1_5289f12fc7b855ff560bd0bf/index.html |newspaper=Adevărul |author =Mihai Stoica |date=18 November 2013}}|</ref>|
+| '''Injuries:''' 2|ref|{{cite news |title=Miting ANTI-ROȘIA MONTANĂ. O femeie a leșinat în timpul protestului de aseară |url=http://www.evz.ro/detalii/stiri/miting-impotriva-exploatarii-de-la-rosia-montana-manifestantii-vor-marsalui-pe-traseul-pi-1064227.html |newspaper=Evenimentul Zilei |author1=Alexandra Ciliac |author2=Sorin Breazu |author3=Cristina Botezatu |date=28 October 2013}}|</ref>|}}","plainlist 50  cities  across  Romania
+ 30  cities  in  Romanian  diaspora",2014.0,False
+1007,1007,40520631,Iranian involvement in the Syrian Civil War,military conflict,54540,179967,101,171,Unknown,Syria  Q858,2013.0,False
+1008,1008,40628065,Operation Marne Courageous,military conflict,2288,870,3,12,None reported,Baghdad  Q1530,2007.0,False
+1009,1009,40775529,Aleppo offensive (October–December 2013),military conflict,39226,36954,80,76,97+ civilians killed,Aleppo  Governorate  Q214064,2013.0,False
+1010,1010,40777909,2013 Libyan coup d'état attempt,military conflict,21437,16697,24,55,,Corinthia  Hotel  Tripoli  Q3648096,2013.0,False
+1011,1011,40780074,Allied Democratic Forces insurgency,military conflict,31759,66237,57,111,"3,353+ people killed <small>(including civilians, soldiers and rebels)</small> <br>150,000+ displaced",Uganda  Q1036,1996.0,False
+1012,1012,40784785,2013 Biryulyovo riots,civil conflict,3841,12261,7,21,,Biryulyovo  Zapadnoye  District  Q1963002,2013.0,False
+1013,1013,40796057,Action of 7 September 2009,military conflict,5439,5292,7,41,None |caus2| 1 killed<br />4 captured<br/>1 skiff disabled and captured,south  of  Mukalla,2009.0,False
+1014,1014,40829982,Rif Dimashq Governorate campaign,military conflict,11827,146204,6,92,,Rif  Dimashq  Governorate  Q232399,2018.0,False
+1015,1015,40843060,Siege of Opochka,military conflict,2161,2067,1,22,"About 5,500 {{citation needed|date|=|October 2013}} |caus2| Unknown {{citation needed|date|=|October 2013}}",Opochka  Q145906,2013.0,False
+1016,1016,40863726,Battle of Gaza (2007),military conflict,54342,115298,76,134,120 combatants<br>39 civilians <br>2 UN personnel,Gaza  Strip  Q39760,2007.0,False
+1017,1017,40916420,Rif Dimashq offensive (September–November 2013),military conflict,33813,20623,75,52,"1,000 rebels killed (Army claim) |caus2| 115+ soldiers killed",Rif  Dimashq  Governorate  Q232399,2013.0,False
+1018,1018,40946764,2013 Singapore cyberattacks,civil conflict,12055,28868,20,49,,,2013.0,False
+1019,1019,40952431,Rif Dimashq offensive (March–August 2013),military conflict,44953,25205,81,55,"2,125+ fighters killed |caus2| 1,150+ soldiers killed",Rif  Dimashq  Governorate  Q232399,2013.0,False
+1020,1020,40956653,Battle of Sadad,military conflict,10950,21941,17,27,"46 civilians killed, 30 wounded, 10 missing",Sadad  Q3461076,2013.0,False
+1021,1021,41008559,Operation Lyari,military conflict,15158,48030,14,112,,Lyari  Q15243177,2013.0,False
+1022,1022,41107894,Battle of Qalamoun (2013–14),military conflict,83312,2648,201,61,"'''First phase:'''<br>Unknown<br>'''Second phase:'''<br>180 killed (47 Hezbollah fighters; Army claim) <br>1,800 killed and injured (140 Hezbollah fighters); (opposition claim)<br> |caus2| '''First phase:'''<br>100 killed and captured (An-Nabk battle; Army claim) <br>'''Second phase:'''<br>1,479 killed, including at least 13 commanders (Army claim)<br>Low hundreds of losses (opposition claim)",Qalamoun  Mountains  Q7265930,2014.0,False
+1023,1023,41182450,2013–2014 Thai political crisis,civil conflict,186218,54328,281,180,+28,Thailand  Q869,2014.0,False
+1024,1024,41288746,Operation Una,military conflict,31389,17608,0,152,"54 Serb civilians killed, 39 wounded and 6 captured<br>2 [[UNCRO]] peacekeepers killed in the VRS shelling of Dvor",Bosnia  and  Herzegovina  Q225,1995.0,False
+1025,1025,41299240,Inter-rebel conflict during the Syrian Civil War,military conflict,138290,172448,299,316,,Syria  Q858,2014.0,False
+1026,1026,41306986,2013 Little India riot,civil conflict,22415,155104,39,40,,Little  India  Q2392844,2013.0,False
+1027,1027,41335178,Battle of Araouane,military conflict,3230,5024,3,10,"{{Flagicon|France}} None |caus2| 19 KIA, 8 captured",Araouane  Q626121,2013.0,False
+1028,1028,41350169,2013 Italian social protests,civil conflict,23526,9578,44,98,'''Injured''': Dozens <br>'''Arrested''': 17 |caus2| '''Injured''': 14 (police),Italy several  locations,2013.0,False
+1029,1029,41366302,2013 police revolts in Argentina,civil conflict,8199,3977,11,33,+ 18 deaths |caus2| + 400 injuries,flag Argentina,2013.0,False
+1030,1030,41382446,South Sudanese Civil War,military conflict,152497,844622,319,351,Unknown,South  Sudan  Q958,2013.0,False
+1031,1031,41477888,Operation Allied Protector,military conflict,7749,4320,7,45,,Gulf  of  Aden  Q41837,2009.0,False
+1032,1032,41504323,December 2013 Kinshasa attacks,military conflict,5651,7948,4,28,"103 killed, 100 arrested |caus2| One soldier killed, one UN civilian wounded",Kinshasa  Q3838,2013.0,False
+1033,1033,41544708,2013–14 Cambodian protests,civil conflict,24153,26277,47,100,4 deaths <br> 27 injured |caus2| 8 injured,,2014.0,False
+1034,1034,41544833,2012–14 Romanian protests against shale gas,civil conflict,76202,14766,131,219,"{{unbulleted list
+| '''Arrests:''' 53
+| '''Injuries:''' 17}} |caus2| {{unbulleted list
+| '''Injuries:''' 1|ref|{{cite news |url=http://www1.agerpres.ro/social/2013/12/02/vaslui-jandarm-detasat-la-protestele-din-pungesti-dus-cu-ambulanta-la-spitalul-judetean-de-urgenta-09-16-50 |title=Vaslui: Jandarm detașat la protestele din Pungești dus cu ambulanța la Spitalul Județean de Urgență |newspaper=Agerpres |date=2 December 2013}}|</ref>|}}",Dozens  of  cities  in  Romania and  Romanian  diaspora,2014.0,False
+1035,1035,41547324,Anbar campaign (2013–14),military conflict,51607,104854,111,137,"1,168 civilians killed, 480,000 [[Internally Displaced Persons|IDPs]] ([[UNHCR]] estimate)",Al  Anbar  Governorate  Q187334,2014.0,False
+1036,1036,41631998,The Day We Fight Back,civil conflict,41515,13494,79,179,,Online  plus  physical  protests  in  various  locals,2014.0,False
+1037,1037,41742029,Stop Watching Us,civil conflict,11558,18119,19,55,,Washington|DC|Cologne|Germany,2013.0,False
+1038,1038,41749867,2014 Euromaidan regional state administration occupations,civil conflict,91289,17892,219,188,,Ukraine,2014.0,False
+1039,1039,41807723,Operation Darkhorse,"military conflict, operational plan",10290,27631,8,53,'''Civilians injured:''' 8,Maguindanao  Q13845,2014.0,False
+1040,1040,41872505,2014 unrest in Bosnia and Herzegovina,civil conflict,68543,37606,103,216,,Bosnia  and  Herzegovina mostly  in  the  Federation  of  Bosnia  and  Herzegovina,2014.0,False
+1041,1041,41874963,2014 student protest in Kosovo,civil conflict,19355,4321,11,40,48 arrested and 165 injured 13 wounded |caus2| 33–36 injured 6 wounded,Pristina Prishtina|flagu Kosovo,2014.0,False
+1042,1042,41941440,2014 Libyan coup d'état attempts,military conflict,5003,15841,6,20,,Tripoli  Q3579,2014.0,False
+1043,1043,41983344,2013–14 Tunisian political crisis,civil conflict,49754,18638,99,162,,flagu Tunisia,2014.0,False
+1044,1044,42004598,Daraa offensive (February–May 2014),military conflict,34993,21700,78,50,,Daraa  Governorate  Q1689560,2014.0,False
+1045,1045,42009759,San Francisco tech bus protests,civil conflict,29907,7260,35,88,,San  Francisco|California San  Francisco|Oakland|California United  States  of  America U S,2016.0,False
+1046,1046,42085878,Russian military intervention in Ukraine (2014–present),military conflict,317223,1290459,590,714,"Over 8,000 killed overall <br>(including 304 foreign civilians)",Crimean  Peninsula  Q7835|Donetsk  Oblast  Q2012050|Luhansk  Oblast  Q171965|Kherson  Oblast  Q163271|Sea  of  Azov  Q35000|Rostov  Oblast  Q3573,2014.0,False
+1047,1047,42098138,2014 pro-Russian unrest in Ukraine,civil conflict,262025,505110,493,732,"6,254 killed overall in the Donbass war only (including 304 foreign civilians) ----
+1,177,748 Ukrainians internally displaced and 763,632 fled abroad (mostly to Russia) <br>
+For more information see [[Casualties of the Ukrainian crisis]]",Eastern  Ukraine  Q181386|Crimean  Peninsula  Q7835|Southern  Ukraine  Q2641546,2014.0,False
+1048,1048,42158128,Battle of Beverwijk,civil conflict,12766,31146,4,42,+1,Beverwijk  Q33424724,1997.0,False
+1049,1049,42199148,Internal conflict in Azawad,military conflict,8369,6222,0,39,"19 killed, 60 wounded, 40 captured (2012)<br>17 killed, 20 wounded (2013)<br>1 killed, 1 wounded (2014)
+----
+~10 killed |caus2| ~100 killed, 30 captured",Azawad  Q43937,2012.0,False
+1050,1050,42216490,2014 anti-war protests in Russia,civil conflict,17671,34535,24,103,,Moscow Saint  Petersburg|Russia,2014.0,False
+1051,1051,42228673,Annexation of Crimea by the Russian Federation,military conflict,225159,2400168,419,710,"3 civilian deaths (2 pro-Russian and 1 pro-Ukrainian) {{Better source|reason|=|The articles on the protests do not state whether those who died were pro-Russian or pro-Ukrainian, only that the 2 people died in the clashes between the pro-Russian and pro-Ukrainian protestors.|date|=|September 2017}}",Crimean  Peninsula  Q7835,2014.0,False
+1052,1052,42232847,Battle of Goumakoura,military conflict,3744,531,4,12,1 killed<br>3-6 wounded<br><small>(according to Mali)</small><br>30 killed<br>2 tanks destroyed<br>6 vehicles destroyed<br><small>(according to the MNLA)</small> |caus2| 4 killed<br>3 wounded<br><small>(according to the MNLA)</small><br>7+ killed<br>20+ wounded<br><small>(according to Mali)</small>,near  Segou|Mali,2012.0,False
+1053,1053,42239071,2014 Simferopol incident,military conflict,23505,24409,26,104,+2,Simferopol  Q19566,2014.0,False
+1054,1054,42246063,Sunflower Student Movement,civil conflict,66234,128526,129,147,,Legislative  Yuan|Taiwan Zhongzheng  District|Taipei Taipei  City|Taiwan,2014.0,False
+1055,1055,42252034,Battle for Vozuća,military conflict,5754,20104,7,30,129 killed |caus2| Unknown killed {{-}} 60 captured,Vozuća  Q3129204,1995.0,False
+1056,1056,42274857,2014 Latakia offensive,military conflict,81514,52136,174,102,11 civilians killed,Kesab  Q1026301,2014.0,False
+1057,1057,42281657,Battle of Hosn,military conflict,5716,22744,6,25,Several killed |caus2| 40 –93 killed (Army claim)<br>12 killed (opposition claim),Al- Husn|Syria  Q15178835,2014.0,False
+1058,1058,42342404,2014 Idlib offensive,military conflict,16912,19711,33,38,36–60+ rebels killed |caus2| 64+ Syrian soldiers killed,Idlib  Governorate  Q233218,2014.0,False
+1059,1059,42364140,Battle of Markada,military conflict,5079,29632,8,21,120 killed,Markada  Q12242186,2014.0,False
+1060,1060,42365990,Battle of Murak,military conflict,18716,11601,44,28,,Murak  Q12246176,2014.0,False
+1061,1061,42400123,2013 railroad strike in South Korea,civil conflict,2120,947,0,26,,South  Korea,2013.0,False
+1062,1062,42415336,Insurgency in Paraguay,military conflict,33018,13037,59,82,"68 killed {{#tag:ref|See;|ref| name=insightcrimeJuly |ref| name=eiu18092014|ref| name=""auto""|ref| name=latinofoxnews07012015 |ref| name=""GermanShooting"" |ref| name=panampost|ref| name=theguardian24062015|ref| name=abc2015|ref| name=telesurtv|ref| name=abc2016|ref| name=bbc2016|ref| name=""Idilio"" |ref| name=paraguay|ref| name=altimahora}}",Northern  Paraguay Amambay  Department Canindeyú  Department Concepción  Department  Paraguay Concepción  Department San  Pedro  Department|Paraguay San  Pedro  Department,2005.0,False
+1063,1063,42470955,Bundy standoff,"civil conflict, United States District Court case",149065,1313226,194,306,,Bunkerville|Nevada Bunkerville|Clark  County|Nevada Clark  County|Nevada|United  States,2014.0,False
+1064,1064,42504520,Siege of Sloviansk,military conflict,98764,75451,188,208,"~20 civilians killed from April 13 to May 26, unknown number from May 27 to July 5<br>17 civilians and foreigners missing or kidnapped. [[Murder of Pentecostals in Slaviansk|Four Pentecostal Church members executed]]<br>1 Italian photojournalist and 1 Russian interpreter killed <br/>",Sloviansk  Q33581,2014.0,False
+1065,1065,42539265,11 December 2013 Euromaidan assault,civil conflict,11815,6452,16,59,Some Injured,Kiev Kiev|Ukraine,2013.0,False
+1066,1066,42563745,War in Donbass,military conflict,393174,3154112,734,1009,"3,035 civilians killed <br>10,500 killed <small>(by early June 2018)</small> and 24,778 wounded <small>(by 15 November 2017)</small> overall <br>1,414,798 Ukrainians internally displaced; 925,500 fled abroad",Donets  Basin  Q605714|Donetsk  Oblast  Q2012050|Luhansk  Oblast  Q171965,2014.0,False
+1067,1067,42579564,Battle of Asadabad,military conflict,4463,9762,1,12,"KIA : 21
+
+MIA: 5 (presumed dead)
+
+WIA: 1 (survived) |caus2| KIA : 1",Asadabad|Afghanistan,2014.0,False
+1068,1068,42605954,2014 Battle of Basilan,military conflict,12245,6767,11,45,,Basilan  Q13737,2014.0,False
+1069,1069,42636397,2014 May Day protests,civil conflict,14988,11786,21,55,,Worldwide,2014.0,False
+1070,1070,42652716,Battle of Kramatorsk,military conflict,28647,36310,44,64,11 civilians killed,Kramatorsk  Q33613,2014.0,False
+1071,1071,42658529,Prizren incident (1999),military conflict,8390,11697,13,44,1 wounded |caus2| 1 killed<br/>1 wounded,Prizren  Q200061,1999.0,False
+1072,1072,42684911,Battle of Al-Malihah,military conflict,11981,24806,26,40,Unknown |caus2| Unknown <small>(50 Afghan fighters killed)</small>,Damascus  Q3766,2014.0,False
+1073,1073,42712440,Battle of Mariupol (May–June 2014),military conflict,32847,50962,57,82,16 servicemen killed<br>1 captured <br>24 wounded <br><br>3 [[Armoured personnel carrier|APCs]] destroyed <br>4 policemen killed and 25 wounded |caus2| 20–26 killed <br>15–34 captured <br><br><br>1 [[BRDM-2]] destroyed,Mariupol  Q37133,2014.0,False
+1074,1074,42726793,2014 Meerut riots,civil conflict,6523,8707,12,20,,Meerut|Uttar  Pradesh|India,2014.0,False
+1075,1075,42772828,2014 Vietnam anti-China protests,civil conflict,19014,23239,34,55,"3 deaths confirmed by Vietnam<br />4 deaths confirmed by China<br />21 deaths reported by doctors <br />100 injured <br />More than 1,000 arrested",22  Vietnamese  provinces|notably  in  Bình  Dương  Province Bình  Dương|Cần  Thơ|Đồng  Nai  Province Đồng  Nai|Hà  Tĩnh  Province Hà  Tĩnh|Hải  Phòng|Hà  Nội|Ho  Chi  Minh  City Hồ  Chí  Minh|Thái  Bình  Province Thái  Bình br PRC  provinces Haikou|Sanya and  other  Chinese  cities  closer  to  Vietnam br Overseas  in  major  cities  with  large  Overseas  Vietnamese Vietnamese communities|including br Vietnamese  Australian Australia Melbourne br Vietnamese  Canadian Canada Montreal|Toronto br Vietnamese  Italian Italy Milan|Rome br Vietnamese  people  in  France France Paris br Vietnamese  people  in  Germany Germany Berlin|Frankfurt br Japan Tokyo br Vietnamese  American USA Los  Angeles|Houston|Orange  County|California Orange  County|San  Diego|San  Jose|California San  Jose|Washington  D C br UK London  br Hong  Kong Hong  Kong,2014.0,False
+1076,1076,42824673,Libyan Civil War (2014–present),military conflict,171655,1781983,322,459,,Libya  Q1016,2014.0,False
+1077,1077,42825751,2014 Thai coup d'état,military conflict,118403,468633,208,194,,Thailand  Q869,2014.0,False
+1078,1078,42888404,First Battle of Donetsk Airport,military conflict,17604,60953,34,48,2 civilians killed,Donetsk  International  Airport  Q1431229,2014.0,False
+1079,1079,42899062,Battle of Orašje,military conflict,22000,16848,0,107,,Orašje  Q994255,1995.0,False
+1080,1080,42902502,2013 raid on Barawe,military conflict,4307,733,3,23,none |caus2| none,Barawa  Q613246,2013.0,False
+1081,1081,42957697,Abkhazian Revolution,civil conflict,17332,30612,36,58,,Abkhazia,2014.0,False
+1082,1082,42975602,Siege of the Luhansk Border Base,military conflict,17160,23217,28,39,+11,Luhansk  Q134279,2014.0,False
+1083,1083,42996694,Hanikra border clash,military conflict,6650,11391,14,19,"1 soldier killed, 1 jeep damaged. |caus2| 1 soldier wounded",Rosh  HaNikra  Q2915530,2013.0,False
+1084,1084,43015313,Attack on Bari Alai,military conflict,3043,7408,5,15,"'''U.S.:''' 3 killed <br>'''Latvia:''' 2 killed, 2 wounded <br>'''Afghanistan:''' 3 killed, 12 captured) |caus2| 19 killed",Observation  Post  Bari  Alai|perimeter  of  Nishagam  Kunar  province|Afghanistan,2009.0,False
+1085,1085,43017225,Northern Iraq offensive (June 2014),military conflict,123700,220000,241,342,"1,235–1,265 civilians killed (by 25 June)",Nineveh  Governorate  Q189352|Saladin  Governorate  Q190131|Kirkuk  Governorate  Q193268|Diyala  Governorate  Q217075,2014.0,False
+1086,1086,43038631,2014 protests in Brazil,civil conflict,14000,27329,26,41,,Brazil,2014.0,False
+1087,1087,43050588,Spillover of the Syrian Civil War,military conflict,40607,784241,67,158,,Israel  Q801|Jordan  Q810|Turkey  Q43|Lebanon  Q822|Syria  Q858|Iraq  Q796|Egypt  Q79,2011.0,False
+1088,1088,43059601,Operation Zarb-e-Azb,military conflict,151859,460004,255,301,46+ killed,North  Waziristan  Q1915545,2017.0,False
+1089,1089,43060786,Raid on Kerdasa,military conflict,10352,215,17,35,1 police general killed<br />10 injured |caus2| 65–85 arrested,Kerdasa  Q4165253,2013.0,False
+1090,1090,43109656,Mapenduma hostage crisis,military conflict,12674,17403,10,41,Two hostages killed,Mapenduma|Jayawijaya|Irian  Jaya  now  Papua  Province|Indonesia,1996.0,False
+1091,1091,43114977,2014 Lahore clash,civil conflict,25973,54214,34,109,,Lahore Model  Town|Lahore|Pakistan,2014.0,False
+1092,1092,43175945,RENAMO insurgency (2013–present),military conflict,23007,63092,33,55,"200+ total killed <br>15,000 displaced (2016)",Mozambique  Q1029,2018.0,False
+1093,1093,43234667,First Battle of Tikrit,military conflict,25526,53495,52,64,35+ killed<br>2 helicopters shot down and 1 damaged |caus2| 215+ killed (government claim),Tikrit  Q165444,2014.0,False
+1094,1094,43243199,2014 Israel–Gaza conflict,military conflict,293156,790926,609,542,At least 23 Gazans executed by Hamas,Gaza  Strip  Q39760|Israel  Q801,2014.0,False
+1095,1095,43248251,Operation Canopus Star,military conflict,46937,52460,112,59,"2,500+ civilians and rebels killed due to [[barrel bomb]]s (December 2013–May 2014) <br>203 civilians killed due to rebel hell cannon fire (July–December 2014)",Aleppo  Governorate  Q214064,2014.0,False
+1096,1096,43269085,People's Climate March,civil conflict,25985,53983,40,88,,New  York  City with  other  events  globally  on  the  same  day,2014.0,False
+1097,1097,43283676,2014 Albanian demonstrations in Macedonia,civil conflict,3339,3145,5,12,,flag Macedonia|mostly  in  North- west  region,2014.0,False
+1098,1098,43338521,Battle of the Shaer gas field (July 2014),military conflict,12953,1273,24,21,51–67 killed |caus2| 347–361 killed (200 executed) {{Ref label|killed|*}} <br> 200–250 captured/missing (mostly civilian workers),Homs  Governorate  Q214094,2014.0,False
+1099,1099,43345047,July 2014 Al-Wadi Al-Gedid attack,military conflict,13556,11484,17,53,3 killed |caus2| 22 killed,New  Valley  Governorate  Q30650,2014.0,False
+1100,1100,43348288,Operation Barkhane,military conflict,24675,141134,44,107,"{{flagdeco|France}} 12 killed, 25 wounded |caus2| 450 killed or captured",Sahel  Q66065,2014.0,False
+1101,1101,43349719,Battle of Shuja'iyya,military conflict,48049,31907,68,106,13 killed <br>56 wounded |caus2| 70-120 killed <br><small>Combatants and civilians</small>,Shuja iyya  Q607406,2014.0,False
+1102,1102,43401975,2014 Eastern Syria offensive,military conflict,28200,57048,57,54,456–586+ killed |caus2| '''Syrian government:'''<br>544+ killed <br>32 missing <br>10+ captured <br> 1 [[MiG-21]]MF/UM <br>'''YPG:'''<br>5+ killed,Eastern  Syria,2014.0,False
+1103,1103,43430546,2014 Saharanpur riots,civil conflict,5219,19968,6,19,,Saharanpur|Uttar  Pradesh|India,2014.0,False
+1104,1104,43435162,2014 Hama offensive,military conflict,32015,33412,84,67,150+ killed <small>(Al-Nusra Front only; government claim)</small> |caus2| Unknown,Hama  Governorate  Q232355,2014.0,False
+1105,1105,43438737,2003 Central African Republic coup d'état,military conflict,4365,8475,4,29,Unknown |caus2| {{flagicon|Central African Republic}} Unknown<br> {{flagicon|Democratic Republic of the Congo}} 3 soldiers killed,flag Central  African  Republic,2003.0,False
+1106,1106,43450745,Battle in Shakhtarsk Raion,military conflict,29651,68469,42,93,,Shakhtarsk  Raion  Q2627813,2014.0,False
+1107,1107,43455161,2014 Armenian–Azerbaijani clashes,military conflict,19183,20136,27,66,{{flagicon|Nagorno-Karabakh}} 6 soldiers killed |caus2| {{flagicon|Azerbaijan}} 13 soldiers killed,Nagorno- Karabakh  line  of  contact br  Armenia Azerbaijan  border Armenia Azerbaijan  state  border,2014.0,False
+1108,1108,43463258,Battle of Zumar,military conflict,6291,24315,10,25,"14 killed (Kurdish claim)<br/>281 killed (ISIL claim) |caus2| 100 killed, 38 captured (Kurdish claim)",Zakho  Q12214550,2014.0,False
+1109,1109,43469223,2014 North Kivu offensive,military conflict,1920,295,1,13,Unknown |caus2| Unknown,Masisi  Territory  Q3297274,2014.0,False
+1110,1110,43471743,Qalamoun offensive (June–August 2014),military conflict,33547,21627,64,53,"930+ killed (Syrian and Lebanese government claims) |caus2| Unknown Syrian and Hezbollah casualties
+----
+20 Lebanese soldiers killed, 85 wounded and 24 captured (14 released, 4 executed) <br>20 policemen captured (6 released)",Qalamoun  Mountains  Q7265930,2014.0,False
+1111,1111,43472728,Sinjar massacre,military conflict,48744,432858,83,154,+5000,Sinjar  Q955690,2014.0,False
+1112,1112,43492765,Battle of Arsal (2014),military conflict,13164,36518,26,25,42 –50 civilians killed,Arsal  Q4796334,2014.0,False
+1113,1113,43507553,Operation MH-2,military conflict,6221,1177,17,27,2 soldiers killed<br>1 captured ''(later released)'' |caus2| 30 killed,Kumanovo  Municipality  Q2352376,2001.0,False
+1114,1114,43511120,Operation Vaksince,military conflict,4038,5519,4,29,"12,000 civilians displaced<br>''9,500 fled to [[Kosovo]]''<br>''2,500 fled to [[Serbia]]''",Kumanovo  Municipality  Q2352376,2001.0,False
+1115,1115,43517689,International military intervention against ISIL,military conflict,302587,90535,570,766,"13,568 Iraqi and Syrian civilians killed by ISIL <br>2,500 civilians killed by Coalition airstrikes in Iraq and Syria <br>2,142 civilians killed by ISIL in Syria <br>
+7 civilians killed by airstrikes in Libya <br>
+650+ civilians killed by ISIL outside Iraq and Syria<br>
+
+7,600,000 Syrian civilians displaced <br>3,300,000 Iraqi civilians displaced",Iraq  Q796|Syria  Q858|Libya  Q1016|Nigeria  Q1033|Afghanistan  Q889|Southeast  Asia  Q11708|France  Q142|Iraqi  Kurdistan  Q205047|Al- Raqqah  Governorate  Q235563|Kirkuk  Governorate  Q193268|Saladin  Governorate  Q190131|Nineveh  Governorate  Q189352|Al  Anbar  Governorate  Q187334,2014.0,False
+1116,1116,43520715,Operation Southern Move,military conflict,26504,25327,0,140,See [[Operation Southern Move#Aftermath|Aftermath]] section,Bosnia  and  Herzegovina  Q225,1995.0,False
+1117,1117,43523536,Inqilab March,civil conflict,9632,13853,14,49,,Islamabad,2014.0,False
+1118,1118,43562207,Northern Iraq offensive (August 2014),military conflict,31818,103043,53,164,"5,000 Yazidis killed 5,000–7,000 Yazidis abducted",Iraq  Q796,2014.0,False
+1119,1119,43570389,2014 Quetta Airbase attack,military conflict,6294,9356,8,47,'''[[Killed in Action]]''':<br/>None<br/>'''[[Wounded in Action]]''':<br/>11 |caus2| '''Killed in Action''':<br/>12 militants<br/>'''Wounded in Action'''<br/>1 militant<br/>'''Caught''':<br/>1 militant.,PAF  Base  Samungli  Q3696008,2014.0,False
+1120,1120,43600083,Ferguson unrest,civil conflict,202378,872108,371,317,,Ferguson  Q954855,2014.0,False
+1121,1121,43601235,Battle of Kondaoui,military conflict,2574,3242,2,10,1 wounded |caus2| 11 killed<br>2 pick-ups destroyed,Kondaoui|Mali,2014.0,False
+1122,1122,43621640,Battle of Ilovaisk,military conflict,49184,146910,78,186,36–100 civilians killed,Ilovaisk  Q2415345,2014.0,False
+1123,1123,43637716,Battle for Mosul Dam,military conflict,7336,65846,8,32,Unknown |caus2| 11+ killed,Mosul  Dam  Q606561,2014.0,False
+1124,1124,43638765,Siege of Amirli,military conflict,16090,40687,23,101,147 killed <br/>15 captured |caus2| 16 killed <br/>6 executed<br/>39 wounded,Amirli  Q4746778,2014.0,False
+1125,1125,43682163,Insurgency in Kosovo (1995–98),military conflict,28812,16432,29,104,24 civilians (1996–February 1998),Autonomous  Province  of  Kosovo  and  Metohija  Q1255,1998.0,False
+1126,1126,43683467,Dai Hong Dan incident,military conflict,5009,299733,8,32,"6 North Korean sailors wounded (3 seriously) |caus2| 1–2 killed, 5–6 captured (3 wounded)",Indian  Ocean  Q1239,2007.0,False
+1127,1127,43691291,2014 Karlanyurt clash,military conflict,5098,2646,8,12,7 total deaths,Karlanyurt|Dagestan|Russia,2014.0,False
+1128,1128,43695781,Deir ez-Zor offensive (April–July 2014),military conflict,26254,35764,56,36,39 civilians killed <small>(30 April – 10 June)</small>,Deir  ez- Zor  Governorate  Q232387,2014.0,False
+1129,1129,43698378,2014 Lesotho political crisis,military conflict,18329,27254,16,34,1 policeman,flag Lesotho,2014.0,False
+1130,1130,43699148,Battle of Tripoli Airport,military conflict,5427,25354,4,42,,Tripoli  International  Airport  Q44588,2014.0,False
+1131,1131,43705803,Battle of Al-Tabqa airbase,military conflict,19090,28327,38,31,346 killed |caus2| 310–400 killed (250 executed)<br /> 10–20 captured<br />One [[Sukhoi Su-17|Su-22M3]] shot down.,Al- Thawrah  Q1822804,2014.0,False
+1132,1132,43706156,Operation Indian Ocean,military conflict,129071,46027,173,62,,Somalia  Q1045,2015.0,False
+1133,1133,43718588,2014 Quneitra offensive,military conflict,20899,25051,43,39,44–45 U.N. peacekeepers captured,Quneitra  Governorate  Q219690,2014.0,False
+1134,1134,43722217,2012–15 unrest in Romania,civil conflict,112568,25401,205,344,,Dozens  of  cities  in  Romania and  Romanian  diaspora,2015.0,False
+1135,1135,43749177,Operation All Clear,military conflict,16108,53656,23,85,11–34 killed<br>35–60 wounded |caus2| 160 killed<br>490 captured,"Southern  Bhutan br  Samtse  District
+ Samdrup  Jongkhar  District
+ Sarpang  District
+ Zhemgang  District",2004.0,False
+1136,1136,43750048,Battle of Horlivka,military conflict,11243,30230,24,31,36+ civilians killed,Horlivka  Q157260,2014.0,False
+1137,1137,43759810,Offensive on Mariupol (September 2014),military conflict,10675,28220,16,44,8 civilians killed,Mariupol  Q37133,2014.0,False
+1138,1138,43870934,2013 protests in Kosovo,civil conflict,3621,2256,3,25,0 arrested |caus2| 0 injured and wounded,Pristina Prishtina|flagu Kosovo,2013.0,False
+1139,1139,43896145,2014 Jadavpur University protests,civil conflict,30014,23286,46,80,,Kolkata|Delhi|Mumbai|Hyderabad|Bengaluru|Chennai|Guwahati|India,2015.0,False
+1140,1140,43904407,Siege of Kobanî,military conflict,217444,326142,325,275,"Hundreds of civilians killed <br>Over 400,000 civilians fled to Turkey",Kobanê  Q126415,2015.0,False
+1141,1141,43932941,Siege of Saqlawiyah,military conflict,7731,16972,10,35,"300−500 killed, captured or missing (40−300 killed, 68 captured) |caus2| 14 killed",Saqlawiyah  Q3950238,2014.0,False
+1142,1142,43953512,Catalan Way 2014,civil conflict,4969,8443,5,32,,Catalonia,2014.0,False
+1143,1143,43970194,Houthi takeover in Yemen,military conflict,54018,130079,100,200,,Sana a  Q2471,2015.0,False
+1144,1144,43971623,2014 Hong Kong protests,"civil conflict, | subbox = yes",229612,494733,373,413,,Hong  Kong  Q8646,2014.0,False
+1145,1145,43972492,Operation Shader,military conflict,166030,264921,154,282,"2 servicemen killed (1 non-combat) <br>8 volunteer fighters killed <br>2–3 volunteer aid workers and journalists executed <br>1 Hercules C4 lost |caus2| 3,000+ killed",Iraq  Q796,2014.0,False
+1146,1146,43973237,Rif Dimashq offensive (August–November 2014),military conflict,24127,33751,61,56,678 killed (government and rebel claims) {{Citation needed|date|=|April 2017}} |caus2| 175 killed (government and rebel claims) {{Citation needed|date|=|April 2017}},Damascus  Q3766,2014.0,False
+1147,1147,43975642,American-led intervention in Iraq (2014–present),military conflict,220162,652002,413,710,"963–1,500 civilians killed by Coalition airstrikes <br>5,000+ civilians executed by ISIL <small>(UN)</small> <br>
+Over 550,000 civilians displaced",Iraq  Q796,2014.0,False
+1148,1148,43982103,Turkish involvement in the Syrian Civil War,military conflict,195134,432443,392,453,"'''Syrian''':<br />1 pilot killed <br />113 soldiers killed <br />20 captured. <br />1 [[Mi-17]] shot down <br />1 [[MiG-23]] shot down <br />1 [[Mohajer-4]] drone shot down<br><small>''(SAA troops killed directly by Turkish Armed Forces only)''</small><br />'''Russian:'''<br />2 servicemen killed<br />1 SU-24 shot down<br />1 CSAR helicopter shot down<br />1 [[Orlan-10]] drone shot down ---- {{flagicon image|Flag of Syrian Democratic Forces.svg}} 1,766+ killed ( {{small|SOHR and SDF claims}} ) <br /> {{flagicon image|Flag of Syrian Democratic Forces.svg}} 5,238 killed, 53 captured ( {{small|Turkish claim}} ) <br /> {{flagicon image|Birleşik Özgürlük Güçleri (United Liberation Forces) flag.svg}} 4 killed",Syria  Q858,2011.0,False
+1149,1149,43986502,Iranian intervention in Iraq (2014–present),military conflict,53994,214185,99,278,,Iraq  Q796,2014.0,False
+1150,1150,44009323,Second Battle of Donetsk Airport,military conflict,53340,189232,94,103,"185 killed, hundreds wounded and 24 captured 200 killed, 500 wounded, 27 tanks and 20 armoured vehicles destroyed <small>(final assault; acc. separatists)</small> |caus2| 43+ killed and 62+ wounded <small>(acc. separatists)</small> <br>800 killed, 1,500–2,000 wounded and heavy vehicles losses <small>(acc. Ukraine)</small>",Donetsk  International  Airport  Q1431229,2015.0,False
+1151,1151,44042826,Daraa offensive (October 2014),military conflict,13782,18158,24,33,26+ civilians killed,Daraa  Governorate  Q1689560,2014.0,False
+1152,1152,44082545,2014 Al-Safira offensive,military conflict,5449,11064,7,17,Unknown |caus2| 23+ killed <br>2 helicopters downed,Al- Safira  Q575774,2014.0,False
+1153,1153,44120613,Operation Inherent Resolve,military conflict,63293,916459,143,214,"6,365+ civilians killed by ISIL <br /> Between 6,321 and 9,712  civilians killed by Coalition airstrikes in Syria and Iraq (per Airwars) <br /> Over 970,000 civilians in Iraq and Syria displaced, or fled to Turkey and other countries",Iraq  Q796|Syria  Q858,2014.0,False
+1154,1154,44149874,Siege of Wadi Deif (2014),military conflict,17022,3124,30,37,80 killed (final assault) |caus2| 110 killed and 120–200 captured in final assault (Rebel claim) <br>35 tanks and 20 APC's captured in final assault (Rebel claim),Maarrat  al- Nu man  Q728226,2014.0,False
+1155,1155,44178375,Operation Impact,military conflict,56681,116834,95,136,1 killed (friendly fire) |caus2| Unknown,,2014.0,False
+1156,1156,44207976,October 2014 Sinai attacks,military conflict,13979,16607,23,55,33 soldiers killed <br> 1 [[M60 Patton|M60]] destroyed <br> 1 [[M113 armored personnel carrier|M113]] destroyed |caus2| Unknown,Sheikh  Zuweid  Q3481736,2014.0,False
+1157,1157,44223983,North Lebanon clashes (2014),military conflict,11686,17962,19,40,"8 civilians killed, 150 people on both sides wounded",North  Governorate  Q390267,2014.0,False
+1158,1158,44227031,2014 raid on Idlib city,military conflict,7393,564,11,18,4 civilians killed,Idlib  Governorate  Q233218,2014.0,False
+1159,1159,44229365,Second Afar insurgency,military conflict,13742,31300,23,57,275–569 killed in total {{citation needed|date|=|February 2016}},Afar  Region  Q193494,1995.0,False
+1160,1160,44235678,Al-Nusra Front–SRF/Hazzm Movement conflict,military conflict,29917,37296,54,91,"40+ killed, 25 captured |caus2| 80+ killed, hundreds defected or fled",Northwestern  Syria,2015.0,False
+1161,1161,44246509,Liberation of Jurf Al Sakhar,military conflict,10591,20646,17,65,Unknown |caus2| 498 militants KIA<br>100+ IEDs defused,Jurf  Al  Sakhar  Q6315043,2014.0,False
+1162,1162,44248968,2014 Hungarian Internet tax protests,civil conflict,19611,13371,29,104,,Mainly  Budapest,2014.0,False
+1163,1163,44252097,2014 Kiss of Love protest,civil conflict,34594,141348,84,103,,Trivandrum|Kochi|New  Delhi|Mumbai|Calicut|Hyderabad|Kolkata|Chennai,2016.0,False
+1164,1164,44255559,2014 Burkinabé uprising,civil conflict,50008,97879,59,171,+5,Ouahigouya  Q569904|Ouagadougou  Q3777|Bobo  Dioulasso  Q223761,2014.0,False
+1165,1165,44265587,Umbrella Ultra Marathon,civil conflict,9959,1710,21,41,,New  Territories Sham  Tseng|Tai  Lam  Country  Park Tai  Lam|Shek  Kong|Tai  Po|Ma  On  Shan  peak Ma  On  Shan|Sai  Kung  Town Sai  Kung|Sha  Tin br  Kowloon Mong  Kok|Tsim  Sha  Tsui br  Hong  Kong Admiralty|Pok  Fu  Lam,2014.0,False
+1166,1166,44266296,Battle of the Shaer gas field (October–November 2014),military conflict,16164,1546,33,36,"200+ killed, 73 captured (military source) |caus2| 58 killed (military source)",Palmyra  Q5747,2014.0,False
+1167,1167,44288793,Deir ez-Zor Governorate campaign,military conflict,11189,879,18,93,,Deir  ez- Zor  Governorate  Q232387,2011.0,False
+1168,1168,44348287,Battle of Al-Shaykh Maskin (2014),military conflict,25536,1882,51,43,200 killed (pro-government claim; by 10 November) |caus2| 58 killed (pro-government claim; by 10 November),Daraa  Governorate  Q1689560,2014.0,False
+1169,1169,44356791,Operation Khyber,military conflict,18196,35921,25,126,'''During Operation:'''<br> 4 killed <small> (as of 3rd January 2015)</small><br>11 injured |caus2| '''In Pakistani offensive:'''<br>280+ killed <small> (as of 3rd January 2015)</small><br>400 surrendered,Khyber  Agency  Q2373383,2017.0,False
+1170,1170,44387530,Operation Sangaris,military conflict,57014,38974,123,181,+3,Central  African  Republic  Q929,2016.0,False
+1171,1171,44401354,Operation Toral,military conflict,7184,50820,14,41,,Afghanistan|Asia,2015.0,False
+1172,1172,44413891,Derna campaign (2014–16),military conflict,24786,32919,51,81,SCMD: 8 killed<br>(Battle against LNA) <br>13 killed and<br>48 wounded<br>(Battle against ISIL at Kurfat Sebaa),Derna  Q211866,2014.0,False
+1173,1173,44430686,Battle of Baiji (2014–15),military conflict,43850,81055,81,58,7 civilians executed by ISIL,Baiji  Q803712,2015.0,False
+1174,1174,44472678,Battle of Ramadi (2014–15),military conflict,53578,165364,96,86,658+ people executed by ISIL in and around Ramadi (before 14 May) <br>500 civilians and security personnel killed<br>(14–17 May),Ramadi  Q192961,2015.0,False
+1175,1175,44501016,Battle of Al Kut (2003),military conflict,4395,21076,2,23,"Heavy. Many T-62 tanks, APC's, and Mk83's destroyed. 
+At least 150–250 killed.<br/> 2000–2500 captured. |caus2| 1 Marine killed <br/>~12 wounded<br/>At least 1 ACE truck destroyed",Kut  Q328030,2003.0,False
+1176,1176,44580179,Fall of Hīt (2014),military conflict,7218,17927,11,18,"Over 180,000 civilians displaced <br/> 250 civilians killed",Hīt  Q2422345,2014.0,False
+1177,1177,44616910,Deir ez-Zor offensive (December 2014),military conflict,24519,52937,52,45,250+ killed (by 6 December) |caus2| 43–51 killed (by 6 December),Deir  ez- Zor  Q239097,2014.0,False
+1178,1178,44641562,Battle of Fallujah (2014),military conflict,5805,15797,5,26,50+ fighters killed |caus2| 458+ soldiers killed or executed,Fallujah  Q191170,2014.0,False
+1179,1179,44753727,Operation Mountain Storm (Republic of Macedonia),military conflict,6587,9769,4,29,1 wounded |caus2| 8 killed<br>13 arrested,Tetovo  Q157024,2007.0,False
+1180,1180,44787038,December 2014 Sinjar offensive,military conflict,21122,45743,29,84,"Unknown |caus2| ~1,000+ killed (Peshmerga claim)",Nineveh  Governorate  Q189352,2014.0,False
+1181,1181,44806567,2014 Kunar Offensive,military conflict,14392,3761,23,61,"5 soldiers killed <small>(official sources)</small> <br>6 civilians killed |caus2| 21 killed, 33 wounded <small>(official sources)</small>",Dangam  Q2663252,2014.0,False
+1182,1182,44816101,Fall of Mosul,military conflict,22838,324335,38,99,"Around 500,000 civilians displaced from Mosul",Mosul  Q83317,2014.0,False
+1183,1183,44840876,List of drone strikes in Yemen,military conflict,25626,24967,56,105,111–142 civilians killed (''[[New America (organization)|New America]]'') ''or'' 166–210 civilians killed (''[[The Bureau of Investigative Journalism]]''),Yemen  Q805,2002.0,False
+1184,1184,44861574,Raqqa Is Being Slaughtered Silently,civil conflict,14737,136950,24,46,,Raqqa,2014.0,False
+1185,1185,44881353,Battle of Hillah (2003),military conflict,5840,16638,2,36,"551 Iraqi civilian casualties (19 dead, 515 injured, 17 unspecified)",Hillah  Q243846,2003.0,False
+1186,1186,44890779,2014 Gambian coup d'état attempt,military conflict,11142,27990,19,42,"4 deaths, several wounded",Banjul  Q3726,2014.0,False
+1187,1187,44923104,Dhuluiya offensive,military conflict,7139,19633,12,37,73 fighters killed |caus2| 300 fighters killed (Iraqi claim),Dhuluiya  Q6729149,2014.0,False
+1188,1188,45016775,Republican marches,civil conflict,40534,45671,62,493,,France  Q142,2015.0,False
+1189,1189,45037750,January 2015 raid on Kolofata,military conflict,3387,1010,4,22,1 killed <br> 1 injured |caus2| 143 killed,Kolofata  Q6427461,2015.0,False
+1190,1190,45049114,Operation Dawn 8: Gulf of Aden,military conflict,16838,35838,18,52,''Civilian casualties''' <br />No widely agreed-on figure.,300  miles  southeast  of  the  port  of  Muscat|Oman|near  the  Gulf  of  Aden,2011.0,False
+1191,1191,45152807,19 January 2015 DRC protests,civil conflict,11925,1987,19,46,,Kinshasa|Bukavu|Goma|Lubumbashi,2015.0,False
+1192,1192,45196592,January 2015 Mariupol rocket attack,military conflict,25763,27244,48,77,+31,Mariupol  Q37133,2015.0,False
+1193,1193,45206248,Daraa offensive (January 2015),military conflict,12857,17413,26,36,77–97 killed<br> |caus2| 17+ killed,Daraa  Governorate  Q1689560,2015.0,False
+1194,1194,45212205,Battle of Debaltseve,military conflict,64290,171603,125,109,500+ civilians killed (separatist claim),Debaltseve  Q2371760,2015.0,False
+1195,1195,45222958,Mamasapano clash,"military conflict, operational plan",64553,359413,90,170,Civilian Casualties <br> at least 1 killed and 1 injured <small>(media report)</small> <br> at least 7 killed and 3 injured <small>(Suara Bangsamoro claim)</small>,Mamasapano  Q212623,2015.0,False
+1196,1196,45239612,Israeli involvement in the Syrian Civil War,military conflict,47726,90637,86,131,,Syria  Q858,2012.0,False
+1197,1197,45240333,2015 Kosovo protests,civil conflict,20254,7109,53,81,* 180 arrested * 20 injured |caus2| * 92 policemen injured,KOS,2015.0,False
+1198,1198,45256543,January 2015 Sinai attacks,military conflict,16827,11486,31,50,"44 killed <br> (24 soldiers, 6 policemen, 14 civilians) </small><br/>
+62+ |caus2| Unknown",North  Sinai  Governorate  Q30662,2015.0,False
+1199,1199,45313541,Vejce ambush,military conflict,3974,2675,2,30,8 killed |caus2| 1 wounded,Between  Selce|Macedonia Selce and  Vejce in  the  Šar  Mountains,2001.0,False
+1200,1200,45328865,2015 Niger raid,military conflict,3888,18689,3,32,Several  civilians killed,Bosso  Q894535,2015.0,False
+1201,1201,45329009,2014 Odessa clashes,civil conflict,69191,83170,119,132,"'''Total casualties:''' 48 dead, 247 injured (27 shot, 31 stabbed) and 99 hospitalised <br>'''Arrests:''' 123",Odessa br Odessa  Oblast|Ukraine,2014.0,False
+1202,1202,45342355,Battle of Sana'a (2014),military conflict,17497,33649,30,75,274 –340 killed overall,Hamdan  District  Q4117299|Sana a  Q2471,2015.0,False
+1203,1203,45349911,30 June Stadium stampede,civil conflict,3296,13393,5,23,+28,30  June  Stadium  Q4634507,2015.0,False
+1204,1204,45352597,Jordanian intervention in the Syrian Civil War,military conflict,24052,56342,40,84,* 1 [[Muath al-Kasasbeh|serviceman]] executed * 1 F-16 fighter plane crashed * 4 Jordanian border guards and 2 Civil Defence and [[Public Security Directorate]] officers Killed <small>(ISIS claimed suicide attack)</small> |caus2| Unknown,Iraq  Q796,2014.0,False
+1205,1205,45365563,2015 Southern Syria offensive,military conflict,63727,71676,145,76,"294 killed (Syrian Army claim) <br>300 killed and wounded (rebel claim) |caus2| 63 killed (Syrian Army claim) <br>43 killed, 10–12 executed, 40 captured (SOHR claim) <br>400 killed (rebel claim)",Daraa  Governorate  Q1689560,2015.0,False
+1206,1206,45399857,Fall of Nofaliya (2015),military conflict,6444,28082,11,35,20+ policeman fled |caus2| unknown,Nofaliya  Q36216,2015.0,False
+1207,1207,45405190,2014 Venezuelan protests,civil conflict,66211,52689,128,147,,Venezuela,2014.0,False
+1208,1208,45405903,Anti-austerity movement in Spain,civil conflict,94438,157740,161,325,,Spain,2015.0,False
+1209,1209,45405905,Anti-austerity movement in Portugal,civil conflict,10735,15807,15,38,+0,Portugal,2011.0,False
+1210,1210,45418047,February 2015 Egyptian airstrikes in Libya,military conflict,33485,49283,58,102,7 civilians killed <br>35 Egyptian citizens allegedly kidnapped,Libya  Q1016,2015.0,False
+1211,1211,45418879,2015 Kokang offensive,military conflict,14590,36081,31,52,"~200 killed in total<br>Over 50,000 civilians [[Internally displaced persons|displaced]]",Kokang  Self- Administered  Zone  Q4024716,2015.0,False
+1212,1212,45448253,Hezbollah involvement in the Syrian Civil War,military conflict,39505,136055,69,194,"≈1,500 killed",Syria  Q858,2011.0,False
+1213,1213,45451721,2015 Bangladeshi political crisis,civil conflict,15289,29047,20,42,,Bangladesh,2015.0,False
+1214,1214,45549617,Second Battle of Tikrit,military conflict,91651,77867,185,139,"46 civilians killed <br />28,000 civilians displaced",Tikrit  Q165444,2015.0,False
