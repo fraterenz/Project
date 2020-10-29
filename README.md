@@ -1,4 +1,4 @@
-# Biaspedia: Media-driven data
+# RestInPedia: Media-driven data
 
 # Notebook
 Select notebook **pipeline.ipynb** to view our pipeline and analysis. To view our data story, click [here](https://pietroairaghi.github.io/biaspedia-gh-pages/)
